@@ -5,7 +5,7 @@ import xlrd
 # Importing sentence and word tokenizer
 from nltk.tokenize import sent_tokenize, word_tokenize
 # Importing word stemmer
-from nltk.stem.snowball import SnowballStemmer
+from KirilStemmer import KirilStemmer
 # Importing WordNet Lemmatizer
 from nltk.stem import WordNetLemmatizer
 # Importing WordNet
@@ -40,14 +40,14 @@ class SentimentAnalysis:
         words = nltk.pos_tag(words)
         words = self.__word_filter(words)
         words = self.__base_form(words)
-        words
-
+        words = self.__stem(words)
     @staticmethod
     def __stem(words):
+        stemmer = KirilStemmer()
         stem_words = []
         for word in words:
-            word = word
-        return base_words
+            stem_words.append(stemmer.stemOneWord(word))
+        return stem_words
 
     @staticmethod
     def __base_form(words):
@@ -77,7 +77,7 @@ class SentimentAnalysis:
 
 
 # dummy text
-example_text = "But instead if you work hard I will given you reward and some bonus as well in the form of money. " \
-               "The sky is pinkish-blue. You should not eat cardboard."
+example_text = "I was disappointed and angry at the bad quality of a documentary program on TV. In my opinion, " \
+               "the topic was important and the program should have been made with seriousness and consideration."
 SA = SentimentAnalysis()
 SA.analyze(example_text)
