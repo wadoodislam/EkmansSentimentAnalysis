@@ -10,6 +10,8 @@ from KirilStemmer import KirilStemmer
 from nltk.stem import WordNetLemmatizer
 # Importing WordNet
 from nltk.corpus import wordnet as wn
+# Importing WordProfile
+from WordProfile import WordValance
 
 # Opening NRC word-emotion relation lexicon
 LEX = xlrd.open_workbook("Output Files/Lexicon.xls")
@@ -41,6 +43,27 @@ class SentimentAnalysis:
         words = self.__word_filter(words)
         words = self.__base_form(words)
         words = self.__stem(words)
+        affective_words = self.detect_affective(words)
+
+    @staticmethod
+    def detect_affective(words):
+        affective_words = []
+        for word in words:
+            for rowid in range(LEX_sheet.nrows):
+                row = LEX_sheet.row(rowid)
+                if word == row[0].value:
+                    w_valance = WordValance(word)
+                    w_valance.word['valance'] = {
+                        'anger': row[1].value,
+                        'disgust': row[2].value,
+                        'fear': row[3].value,
+                        'joy': row[4].value,
+                        'sadness': row[5].value,
+                        'surprise': row[6].value
+                    }
+                    affective_words.append(w_valance)
+        return affective_words
+
     @staticmethod
     def __stem(words):
         stemmer = KirilStemmer()

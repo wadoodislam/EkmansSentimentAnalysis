@@ -423,6 +423,7 @@ class KirilStemmer:
                         a += 1
                     if a == length:
                         a = -1
+                        ch = ch.lower()
                         w.append(ch)
                         if j < 257:
                             j += 1
