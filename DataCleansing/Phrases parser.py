@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as elementTree
 import xlwt
 
-tree = elementTree.parse("Resource Files/phrases.xml")
+tree = elementTree.parse("ResourceFiles/phrases.xml")
 root = tree.getroot()
 
 # open a file for writing
@@ -17,4 +17,4 @@ for phrase in root.findall('phrase'):
     sheet.write(count, 1, text)
     count += 1
 
-Lexicon.save("Output Files/Phrases.xls")
+Lexicon.save("OutputFiles/Phrases.xls")

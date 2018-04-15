@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as elementTree
 import xlwt
 
-tree = elementTree.parse("Resource Files/classification.xml")
+tree = elementTree.parse("ResourceFiles/classification.xml")
 root = tree.getroot()
 
 
@@ -69,4 +69,4 @@ for word in words:
     sheet.write(count, 6, int(word[6]))
     count += 1
 
-Lexicon.save("Output Files/Lexicon.xls")
+Lexicon.save("OutputFiles/Lexicon.xls")
