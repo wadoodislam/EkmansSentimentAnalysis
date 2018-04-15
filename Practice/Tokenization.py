@@ -8,10 +8,10 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.stem.snowball import SnowballStemmer
 
 # Opening AFFIN lexicon worksheet
-AFFIN = xlrd.open_workbook("Resource Files/AFINN-111.xlsx")
+AFFIN = xlrd.open_workbook("ResourceFiles/AFINN-111.xlsx")
 AFFIN_sheet = AFFIN.sheet_by_index(0)
 # Opening NRC word-emotion relation lexicon
-NRC = xlrd.open_workbook("Output Files/NRC_new.xls")
+NRC = xlrd.open_workbook("OutputFiles/NRC_new.xls")
 NRC_sheet = NRC.sheet_by_index(0)
 
 # Word filter tags

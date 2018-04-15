@@ -1,10 +1,10 @@
 import xlrd
 import xlwt
 
-NRC = xlrd.open_workbook("Resource Files/NRC.xlsx")
+NRC = xlrd.open_workbook("ResourceFiles/NRC.xlsx")
 sheet = NRC.sheet_by_index(0)
 
-affin = xlrd.open_workbook("Resource Files/AFINN-111.xlsx")
+affin = xlrd.open_workbook("ResourceFiles/AFINN-111.xlsx")
 sheetaffin = affin.sheet_by_index(0)
 
 NRC_new = xlwt.Workbook(encoding="utf-8")
@@ -26,4 +26,4 @@ for rowidx in range(1, sheet.nrows):
             newsheet.write(count, 6, row[6].value)
 
 
-NRC_new.save("Output Files/NRC_new.xls")
+NRC_new.save("OutputFiles/NRC_new.xls")
