@@ -5,16 +5,16 @@ import xlrd
 # Importing sentence and word tokenizer
 from nltk.tokenize import sent_tokenize, word_tokenize
 # Importing word stemmer
-from KirilStemmer import KirilStemmer
+from SourceFiles.KirilStemmer import KirilStemmer
 # Importing WordNet Lemmatizer
 from nltk.stem import WordNetLemmatizer
 # Importing WordNet
 from nltk.corpus import wordnet as wn
 # Importing WordProfile
-from WordProfile import WordValance
+from SourceFiles.TextProfile import TextValance
 
 # Opening NRC word-emotion relation lexicon
-LEX = xlrd.open_workbook("Output Files/Lexicon.xls")
+LEX = xlrd.open_workbook("../OutputFiles/Lexicon.xls")
 LEX_sheet = LEX.sheet_by_index(0)
 
 
@@ -30,10 +30,14 @@ class SentimentAnalysis:
     #   def phraseDetect(self, text):
 
     def analyze(self, text):
+        sentence_affect = []
         # sentence tokenization
         sentences = sent_tokenize(text)
         for sentence in sentences:
-            self.__sentence_process(sentence)
+            s_valance = TextValance(sentence)
+            s_valance.profile['valance'] = self.__sentence_process(sentence)
+            sentence_affect.append(s_valance)
+        return self.__emotion_sum(sentence_affect)
 
     def __sentence_process(self, sentence):
         # word tokenization
@@ -43,17 +47,30 @@ class SentimentAnalysis:
         words = self.__word_filter(words)
         words = self.__base_form(words)
         words = self.__stem(words)
-        affective_words = self.detect_affective(words)
+        affective_words = self.__detect_affective(words)
+        return self.__emotion_sum(affective_words)
 
     @staticmethod
-    def detect_affective(words):
+    def __emotion_sum(words):
+        temp = {'anger': 0, 'disgust': 0, 'fear': 0, 'joy': 0, 'sadness': 0, 'surprise': 0}
+        for word in words:
+            temp['anger'] += word.profile['valance']['anger']
+            temp['disgust'] += word.profile['valance']['disgust']
+            temp['fear'] += word.profile['valance']['fear']
+            temp['joy'] += word.profile['valance']['joy']
+            temp['sadness'] += word.profile['valance']['sadness']
+            temp['surprise'] += word.profile['valance']['surprise']
+        return temp
+
+    @staticmethod
+    def __detect_affective(words):
         affective_words = []
         for word in words:
             for rowid in range(LEX_sheet.nrows):
                 row = LEX_sheet.row(rowid)
                 if word == row[0].value:
-                    w_valance = WordValance(word)
-                    w_valance.word['valance'] = {
+                    w_valance = TextValance(word)
+                    w_valance.profile['valance'] = {
                         'anger': row[1].value,
                         'disgust': row[2].value,
                         'fear': row[3].value,
@@ -103,4 +120,4 @@ class SentimentAnalysis:
 example_text = "I was disappointed and angry at the bad quality of a documentary program on TV. In my opinion, " \
                "the topic was important and the program should have been made with seriousness and consideration."
 SA = SentimentAnalysis()
-SA.analyze(example_text)
+print(SA.analyze(example_text))
