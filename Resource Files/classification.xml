@@ -1,0 +1,2797 @@
+<emotions>
+  <emotion name="anger">
+    <keyword name="cruel" value="11" />
+    <keyword name="let_me_down" value="14" />
+    <keyword name="failed_to" value="14"/>
+    <keyword name="broke" value="5"/>
+    <keyword name="kick" value="5" />
+    <keyword name="intimidat" value="8"/>
+    <keyword name="sarcast" value="8"/>
+    <keyword name="irrelev" value="3"/>
+    <keyword name="rumor" value="5"/>
+    <keyword name="affair" value="8"/>
+    <keyword name="ignor" value="8"/>
+    <keyword name="broken" value="5"/>
+    <keyword name="naughti" value="14"/>
+    <keyword name="nasti" value="8"/>
+    <keyword name="break" value="5"/>
+    <keyword name="discrimin" value="11"/>
+    <keyword name="unconsider" value="11"/>
+    <keyword name="disapprov" value="11"/>
+    <keyword name="unsuit" value="8"/>
+    <keyword name="threaten" value="8" />
+    <keyword name="stabb" value="5"/>
+    <keyword name="idiot" value="11"/>
+    <keyword name="spoil" value="5"/>
+    <keyword name="frump" value="5"/>
+    <keyword name="monopolis" value="5"/>
+    <keyword name="wrong" value="3"/>
+    <keyword name="wrongli" value="3"/>
+    <keyword name="poorli" value="5"/>
+    <keyword name="deni" value="5"/>
+    <keyword name="avoid" value="5"/>
+    <keyword name="uncomfort" value="8"/>
+    <keyword name="badli" value="5"/>
+    <keyword name="unwillingn" value="5"/>
+    <keyword name="unwillingli" value="8"/>
+    <keyword name="provoc" value="8"/>
+    <keyword name="sneaki" value="3"/>
+    <keyword name="sneakli" value="3"/>
+    <keyword name="nonsen" value="5"/>
+    <keyword name="nonsens" value="5"/>
+    <keyword name="violent" value="11"/>
+    <keyword name="guilti" value="17" />
+    <keyword name="embezzel" value="11"/>
+    <keyword name="nuisanc" value="11"/>
+    <keyword name="adulteri" value="11"/>
+    <keyword name="misdiagno" value="11"/>
+    <keyword name="incompet" value="11"/>
+    <keyword name="ruin" value="11"/>
+    <keyword name="stupid" value="11" />
+    <keyword name="arrog" value="11"/>
+    <keyword name="insult" value="14"/>
+    <keyword name="selfish" value="8" />
+    <keyword name="cheat" value="8" />
+    <keyword name="damag" value="8" />
+    <keyword name="humiliat" value="11"/>
+    <keyword name="betrai" value="14"/>
+    <keyword name="manipul" value="11"/>
+    <keyword name="repress" value="11"/>
+    <keyword name="riot" value="11"/>
+    <keyword name="decept" value="11"/>
+    <keyword name="indec" value="11"/>
+    <keyword name="ingratitud" value="11"/>
+    <keyword name="pettin" value="14"/>
+    <keyword name="misunderstand" value="11" />
+    <keyword name="misu" value="11" />
+    <keyword name="kick_out" value="11"/>
+    <keyword name="overdo" value="11"/>
+    <keyword name="beat_up" value="14"/>
+    <keyword name="holocaust" value="8" />
+    <keyword name="robb" value="8"/>
+    <keyword name="thunder" value="5"/>
+    <keyword name="kill" value="5"/>
+    <keyword name="improperli" value="5"/>
+    <keyword name="dy" value="5"/>
+    <keyword name="refu" value="5"/>
+    <keyword name="rap" value="11" />
+    <keyword name="rape" value="11" />
+    <keyword name="confront" value="5"/>
+    <keyword name="upset" value="5" />
+    <keyword name="funer" value="11" />
+    <keyword name="expel" value="14" />
+    <keyword name="deliber" value="14" />
+    <keyword name="scold" value="17"/>
+    <keyword name="argument" value="14"/>
+    <keyword name="demolish" value="11"/>
+    <keyword name="critic" value="11"/>
+    <keyword name="rob" value="11" />
+    <keyword name="robberi" value="11"/>
+    <keyword name="destroi" value="14"/>
+    <keyword name="impolit" value="14" />
+    <keyword name="unwant" value="14"/>
+    <keyword name="problem" value="11" />
+    <keyword name="interfer" value="14" />
+    <keyword name="interf" value="14" />
+    <keyword name="accus" value="14"/>
+    <keyword name="accu" value="14"/>
+    <keyword name="irritat" value="14"/>
+    <keyword name="disagr" value="14"/>
+    <keyword name="criticiz" value="14"/>
+    <keyword name="nonchalantli" value="11"/>
+    <keyword name="unequ" value="11"/>
+    <keyword name="infring" value="14"/>
+    <keyword name="deceiv" value="11"/>
+    <keyword name="apartheid" value="11"/>
+    <keyword name="forc" value="11"/>
+    <keyword name="undeservedli" value="11"/>
+    <keyword name="withdraw" value="14" />
+    <keyword name="slur" value="14"/>
+    <keyword name="li" value="14"/>
+    <keyword name="steal" value="11"/>
+    <keyword name="neg" value="14"/>
+    <keyword name="quarrel" value="14"/>
+    <keyword name="quarrell" value="14"/>
+    <keyword name="reveng" value="11" />
+    <keyword name="humili" value="11" />
+    <keyword name="attack" value="11"/>
+    <keyword name="degrad" value="14"/>
+    <keyword name="assault" value="14" />
+    <keyword name="mistak" value="14" />
+    <keyword name="unemploi" value="11"/>
+    <keyword name="unemploy" value="11"/>
+    <keyword name="double-cross" value="11"/>
+    <keyword name="derogatori" value="11"/>
+    <keyword name="complain" value="11"/>
+    <keyword name="war" value="11"/>
+    <keyword name="pretenti" value="11"/>
+    <keyword name="infringement" value="11"/>
+    <keyword name="unjust" value="14" />
+    <keyword name="unjustli" value="14" />
+    <keyword name="unjustifi" value="11"/>
+    <keyword name="unfair" value="11" />
+    <keyword name="unfai" value="11" />
+    <keyword name="prejudic" value="11"/>
+    <keyword name="prejud" value="11"/>
+    <keyword name="unreal" value="11" />
+    <keyword name="disregard" value="14" />
+    <keyword name="unfairli" value="11" />
+    <keyword name="leav" value="14"/>
+    <keyword name="reject" value="14"/>
+    <keyword name="unjustic" value="14"/>
+    <keyword name="interrupt" value="14"/>
+    <keyword name="bad_temp" value="5" />
+    <keyword name="ill_temp" value="5" />
+    <keyword name="wrath" value="14" />
+    <keyword name="lie" value="11"/>
+    <keyword name="rude" value="11"/>
+    <keyword name="undeserv" value="5"/>
+    <keyword name="abus" value="11"/>
+    <keyword name="refus" value="11" />
+    <keyword name="umbrag" value="5" />
+    <keyword name="offens" value="5" />
+    <keyword name="piqu" value="11" />
+    <keyword name="temper" value="5" />
+    <keyword name="irrit" value="14" />
+    <keyword name="argu" value="14" />
+    <keyword name="rough" value="5" />
+    <keyword name="roughli" value="5" />
+    <keyword name="hinder" value="14" />
+    <keyword name="fight" value="14" />
+    <keyword name="blame" value="11"/>
+    <keyword name="blam" value="11"/>
+    <keyword name="punish" value="11"/>
+    <keyword name="conflict" value="11"/>
+    <keyword name="despis" value="11"/>
+    <keyword name="despi" value="11"/>
+    <keyword name="disturb" value="11"/>
+    <keyword name="vain" value="11"/>
+    <keyword name="mistreat" value="11"/>
+    <keyword name="fool" value="14" />
+    <keyword name="livid" value="11" />
+    <keyword name="irasc" value="5" />
+    <keyword name="short_temp" value="5" />
+    <keyword name="spleen" value="5" />
+    <keyword name="quick_temp" value="5" />
+    <keyword name="infuri" value="11" />
+    <keyword name="enrag" value="11" />
+    <keyword name="indign" value="11" />
+    <keyword name="outrag" value="14" />
+    <keyword name="huffi" value="5" />
+    <keyword name="harass" value="5" />
+    <keyword name="torment" value="5" />
+    <keyword name="furi" value="5" />
+    <keyword name="rage" value="11" />
+    <keyword name="mad" value="14" />
+    <keyword name="frustrat" value="11" />
+    <keyword name="tantrum" value="5" />
+    <keyword name="scene" value="5" />
+    <keyword name="dudgeon" value="5" />
+    <keyword name="high_dudgeon" value="5" />
+    <keyword name="displeasur" value="5" />
+    <keyword name="dander" value="5" />
+    <keyword name="hackl" value="5" />
+    <keyword name="disobei" value="5" />
+    <keyword name="annoy" value="11" />
+    <keyword name="chafe" value="5" />
+    <keyword name="vexat" value="11" />
+    <keyword name="anger" value="17" />
+    <keyword name="choler" value="5" />
+    <keyword name="ir" value="5" />
+    <keyword name="aggrav" value="11" />
+    <keyword name="exasper" value="11" />
+    <keyword name="provok" value="8" />
+    <keyword name="angri" value="17" />
+    <keyword name="furiou" value="14" />
+    <keyword name="madden" value="14" />
+    <keyword name="annoi" value="11" />
+    <keyword name="bothersom" value="11" />
+    <keyword name="gall" value="5" />
+    <keyword name="disappoint" value="7" />
+    <keyword name="nettlesom" value="5" />
+    <keyword name="peski" value="11" />
+    <keyword name="pester" value="5" />
+    <keyword name="pestifer" value="5" />
+    <keyword name="plagui" value="5" />
+    <keyword name="plaguei" value="5" />
+    <keyword name="teas" value="5" />
+    <keyword name="vexati" value="5" />
+    <keyword name="vex" value="11" />
+    <keyword name="harri" value="11" />
+    <keyword name="nettl" value="5" />
+    <keyword name="peev" value="5" />
+    <keyword name="piss" value="17" />
+    <keyword name="rile" value="5" />
+    <keyword name="roil" value="5" />
+    <keyword name="stung" value="5" />
+    <keyword name="displeas" value="11" />
+    <keyword name="baffl" value="5" />
+    <keyword name="balk" value="5" />
+    <keyword name="discourag" value="11" />
+    <keyword name="sore" value="8" />
+    <keyword name="incens" value="11" />
+    <keyword name="wroth" value="5" />
+    <keyword name="exacerb" value="5" />
+    <keyword name="see_r" value="5" />
+    <keyword name="rag" value="5" />
+    <keyword name="get_to" value="5" />
+    <keyword name="bother" value="11" />
+    <keyword name="get_at" value="5" />
+    <keyword name="nark" value="5" />
+    <keyword name="gravel" value="5" />
+    <keyword name="devil" value="5" />
+    <keyword name="tantal" value="5" />
+    <keyword name="bedevil" value="5" />
+    <keyword name="crucifi" value="5" />
+    <keyword name="dun" value="5" />
+    <keyword name="enfuri" value="5" />
+    <keyword name="persecut" value="11" />
+    <keyword name="oppress" value="11" />
+    <keyword name="offend" value="11" />
+    <keyword name="angrili" value="11" />
+    <keyword name="wast" value="5" />
+    <keyword name="misbehav" value="5" />
+    <keyword name="degenerat" value="11" />
+    <keyword name="displeasingli" value="5" />
+    <keyword name="furious" value="5" />
+    <keyword name="huffili" value="5" />
+    <keyword name="indignantli" value="5" />
+    <keyword name="lividli" value="5" />
+    <keyword name="wrathfulli" value="5" />
+    <keyword name="warpath" value="5" />
+    <keyword name="vindict" value="5" />
+    <keyword name="veng" value="5" />
+    <keyword name="sulki" value="11" />
+    <keyword name="huffish" value="5" />
+    <keyword name="resent" value="11" />
+    <keyword name="bitter" value="11" />
+    <keyword name="bitt" value="11" />
+    <keyword name="rancor" value="5" />
+    <keyword name="rancour" value="5" />
+    <keyword name="murder" value="11" />
+    <keyword name="misopedia" value="5" />
+    <keyword name="mison" value="5" />
+    <keyword name="misolog" value="5" />
+    <keyword name="misogyni" value="5" />
+    <keyword name="misogyn" value="5" />
+    <keyword name="misogami" value="5" />
+    <keyword name="misocainea" value="5" />
+    <keyword name="misanthropi" value="5" />
+    <keyword name="malic" value="5" />
+    <keyword name="malici" value="5" />
+    <keyword name="spite" value="11" />
+    <keyword name="venom" value="5" />
+    <keyword name="malevol" value="5" />
+    <keyword name="malign" value="5" />
+    <keyword name="malefic" value="5" />
+    <keyword name="jealousi" value="5" />
+    <keyword name="green-eyed_monst" value="5" />
+    <keyword name="hostil" value="11" />
+    <keyword name="enmiti" value="5" />
+    <keyword name="ill_wil" value="5" />
+    <keyword name="heartburn" value="5" />
+    <keyword name="hate" value="14" />
+    <keyword name="hat" value="14" />
+    <keyword name="unkindli" value="11" />
+    <keyword name="incid" value="8" />
+    <keyword name="hatr" value="8" />
+    <keyword name="grudg" value="5" />
+    <keyword name="grievanc" value="5" />
+    <keyword name="envi" value="8" />
+    <keyword name="envious" value="5" />
+    <keyword name="the_green-eyed_monst" value="5" />
+    <keyword name="covet" value="5" />
+    <keyword name="class_feel" value="5" />
+    <keyword name="belliger" value="5" />
+    <keyword name="antagon" value="5" />
+    <keyword name="animos" value="11" />
+    <keyword name="animu" value="5" />
+    <keyword name="bad_blood" value="5" />
+    <keyword name="aggress" value="11" />
+    <keyword name="abhorr" value="14" />
+    <keyword name="abomin" value="5" />
+    <keyword name="detest" value="5" />
+    <keyword name="execr" value="5" />
+    <keyword name="loath" value="14" />
+    <keyword name="odium" value="5" />
+    <keyword name="avarici" value="5" />
+    <keyword name="grabbi" value="5" />
+    <keyword name="grasp" value="5" />
+    <keyword name="greedi" value="11" />
+    <keyword name="prehensil" value="5" />
+    <keyword name="enviou" value="11" />
+    <keyword name="jealou" value="11" />
+    <keyword name="enviabl" value="5" />
+    <keyword name="begrudg" value="5" />
+    <keyword name="green-ei" value="5" />
+    <keyword name="overjeal" value="5" />
+    <keyword name="malef" value="5" />
+    <keyword name="evil" value="14" />
+    <keyword name="misanthrop" value="5" />
+    <keyword name="despit" value="5" />
+    <keyword name="abhor" value="14" />
+    <keyword name="contemn" value="5" />
+    <keyword name="scorn" value="11" />
+    <keyword name="disdain" value="11" />
+    <keyword name="stew" value="5" />
+    <keyword name="sulk" value="11" />
+    <keyword name="pout" value="5" />
+    <keyword name="brood" value="11" />
+    <keyword name="grizzl" value="5" />
+    <keyword name="with_hostil" value="5" />
+    <keyword name="jealous" value="5" />
+    <keyword name="hatefulli" value="5" />
+    <keyword name="amok" value="5" />
+    <keyword name="amuck" value="5" />
+    <keyword name="resentfulli" value="5" />
+    <keyword name="revengefulli" value="5" />
+    <keyword name="vengefulli" value="5" />
+<keyword name="acrimoni" value="7"/>
+<keyword name="agit" value="8"/>
+<keyword name="banish" value="8"/>
+<keyword name="blackmail" value="5"/>
+<keyword name="brat" value="5"/>
+<keyword name="brazen" value="8"/>
+<keyword name="breach" value="8"/>
+<keyword name="breakdown" value="5"/>
+<keyword name="bribe" value="5"/>
+<keyword name="broken-heart" value="11"/>
+<keyword name="brusqu" value="5"/>
+<keyword name="brutal" value="8"/>
+<keyword name="brute" value="5"/>
+<keyword name="blatant" value="8"/>
+<keyword name="bleak" value="5"/>
+<keyword name="blemish" value="5"/>
+<keyword name="bloodsh" value="7"/>
+<keyword name="bloodthirsti" value="8"/>
+<keyword name="bloodi" value="5"/>
+<keyword name="blunder" value="5"/>
+<keyword name="blunt" value="8"/>
+<keyword name="bogu" value="5"/>
+<keyword name="bomb" value="8"/>
+<keyword name="bombard" value="5"/> 
+<keyword name="bondag" value="5"/>
+<keyword name="brag" value="5"/>
+<keyword name="brutish" value="5"/>
+<keyword name="burden" value="5"/>
+<keyword name="burdensom" value="7"/>
+<keyword name="burglar" value="5"/>
+<keyword name="burglari" value="5"/>
+<keyword name="butcheri" value="8"/>
+<keyword name="calam" value="5"/>
+<keyword name="caprici" value="5"/>
+<keyword name="cataclysm" value="5"/>
+<keyword name="catastroph" value="5"/>
+<keyword name="censorship" value="5"/>
+<keyword name="censur" value="5"/>
+<keyword name="chaotic" value="5"/>
+<keyword name="choke" value="5"/>
+<keyword name="chronic" value="5"/>
+<keyword name="clash" value="5"/>
+<keyword name="cocki" value="12"/>
+<keyword name="coerc" value="5"/>
+<keyword name="coercion" value="5"/>
+<keyword name="commiser" value="11"/>
+<keyword name="complaint" value="5"/>
+<keyword name="condemn" value="8"/> 
+<keyword name="condescend" value="5"/>
+<keyword name="condescens" value="5"/>
+<keyword name="confisc" value="5"/> 
+<keyword name="contempt" value="7"/> 
+<keyword name="contemptu" value="5"/>
+<keyword name="contradict" value="5"/> 
+<keyword name="contradictori" value="5"/>
+<keyword name="corrupt" value="5"/>
+<keyword name="counterfeit" value="5"/>
+<keyword name="crimin" value="5"/>
+<keyword name="crook" value="5"/> 
+<keyword name="crumbl" value="5"/>
+<keyword name="culpabl" value="5"/>
+<keyword name="culprit" value="5"/>
+<keyword name="damn" value="5"/>
+<keyword name="damnabl" value="5"/> 
+<keyword name="danger" value="5"/>
+<keyword name="darn" value="5"/>
+<keyword name="deceit" value="5"/> 
+<keyword name="defect" value="5"/>
+<keyword name="defend" value="5"/>
+<keyword name="defens" value="5"/>
+<keyword name="defianc" value="8"/>
+<keyword name="defi" value="8"/>
+<keyword name="degener" value="5"/>
+<keyword name="delinqu" value="5"/> 
+<keyword name="denounc" value="5"/>
+<keyword name="depos" value="5"/>
+<keyword name="despic" value="5"/>
+<keyword name="diabol" value="5"/> 
+<keyword name="disbelief" value="5"/>
+<keyword name="disgrac" value="5"/>
+<keyword name="dishearten" value="11"/>
+<keyword name="dishonest" value="5"/>
+<keyword name="dishonor" value="7"/>
+<keyword name="disobedi" value="5"/> 
+<keyword name="disord" value="5"/>
+<keyword name="dissatisfact" value="7"/>
+<keyword name="dissatisfi" value="7"/> 
+<keyword name="doomsdai" value="5"/>
+<keyword name="dread" value="11"/> 
+<keyword name="embarrass" value="5"/> 
+<keyword name="endang" value="5"/>
+<keyword name="enemi" value="5"/>
+<keyword name="enslav" value="5"/>
+<keyword name="evict" value="5"/>
+<keyword name="exploit" value="8"/>
+<keyword name="failur" value="5"/>
+<keyword name="fake" value="5"/>
+<keyword name="fault" value="5"/>
+<keyword name="feroci" value="7"/>
+<keyword name="feroc" value="5"/>
+<keyword name="feud" value="5"/>
+<keyword name="feudal" value="5"/>
+<keyword name="flagrant" value="5"/>
+<keyword name="foe" value="5"/>
+<keyword name="frantic" value="5"/> 
+<keyword name="admonish" value="8"/>
+<keyword name="admonit" value="5"/>
+<keyword name="adulter" value="5"/> 
+<keyword name="afflict" value="8"/> 
+<keyword name="aggressor" value="5"/>
+<keyword name="aggriev" value="5"/>
+<keyword name="aghast" value="5"/> 
+<keyword name="agon" value="7"/>
+<keyword name="agoni" value="7"/>
+<keyword name="aimless" value="5"/>
+<keyword name="alleg" value="5"/> 
+<keyword name="aloof" value="5"/>
+<keyword name="alterc" value="5"/>
+<keyword name="ambigu" value="5"/>
+<keyword name="ambush" value="8"/>
+<keyword name="amput" value="5"/>
+<keyword name="anarchi" value="5"/>
+<keyword name="annihil" value="5"/> 
+<keyword name="antagonist" value="18"/>
+<keyword name="antipathi" value="5"/>
+<keyword name="antitrust" value="5"/>
+<keyword name="appal" value="5"/>
+<keyword name="arrest" value="8"/>
+<keyword name="assail" value="8"/>
+<keyword name="assassin" value="5"/> 
+<keyword name="audaci" value="8"/>
+<keyword name="audac" value="8"/>
+<keyword name="auster" value="8"/>
+<keyword name="avaric" value="5"/>
+<keyword name="aveng" value="8"/>
+<keyword name="avers" value="7"/>
+<keyword name="avert" value="5"/>
+<keyword name="aw" value="8"/>
+<keyword name="awkward" value="5"/> 
+<keyword name="bane" value="5"/>
+<keyword name="bankrupt" value="5"/>
+<keyword name="bankruptci" value="5"/>
+<keyword name="bash" value="11"/>
+<keyword name="bastard" value="5"/>
+<keyword name="battl" value="8"/>
+<keyword name="beastli" value="5"/>
+<keyword name="belittl" value="5"/>
+<keyword name="betray" value="5"/>
+<keyword name="bewar" value="8"/>
+<keyword name="bitchi" value="7"/>
+<keyword name="bizarr" value="5"/>
+<keyword name="abandon" value="5"/> 
+<keyword name="abdic" value="5"/>
+<keyword name="abject" value="5"/>
+<keyword name="abnorm" value="5"/>
+<keyword name="abolish" value="8"/>
+<keyword name="absurd" value="5"/> 
+<keyword name="accid" value="5"/>
+<keyword name="accost" value="5"/>
+<keyword name="accurs" value="5"/>
+<keyword name="fraud" value="5"/>
+<keyword name="fraudul" value="5"/>
+<keyword name="frigid" value="5"/>
+<keyword name="frivol" value="5"/>
+<keyword name="gloat" value="8"/>
+<keyword name="goddamn" value="5"/>
+<keyword name="guilt" value="11"/>
+<keyword name="handicap" value="5"/>
+<keyword name="harm" value="8"/> 
+<keyword name="harsh" value="8"/>
+<keyword name="hassl" value="5"/>
+<keyword name="hater" value="5"/>
+<keyword name="headach" value="5"/>
+<keyword name="heartless" value="7"/>
+<keyword name="hedonist" value="5"/>
+<keyword name="heinou" value="5"/>
+<keyword name="hell" value="5"/>
+<keyword name="horribl" value="5"/>
+<keyword name="horrid" value="5"/>
+<keyword name="horrifi" value="5"/>
+<keyword name="horror" value="11"/> 
+<keyword name="hurt" value="11"/>
+<keyword name="hypocrisi" value="5"/>
+<keyword name="hypocrit" value="5"/>
+<keyword name="hysteria" value="11"/>
+<keyword name="hyster" value="11"/>
+<keyword name="imprison" value="5"/> 
+<keyword name="incap" value="5"/>
+<keyword name="inflict" value="5"/>
+<keyword name="injuri" value="5"/>
+<keyword name="insan" value="5"/>
+<keyword name="intoler" value="11"/>
+<keyword name="iron" value="5"/>
+<keyword name="ironi" value="5"/>
+<keyword name="irrespons" value="5"/>
+<keyword name="jeopard" value="5"/>
+<keyword name="kidnap" value="5"/>
+<keyword name="killer" value="8"/>
+<keyword name="lunat" value="5"/>
+<keyword name="madman" value="5"/>
+<keyword name="manslaught" value="5"/>
+<keyword name="massacr" value="5"/>
+<keyword name="melodramat" value="5"/>
+<keyword name="menac" value="8"/>
+<keyword name="misbehavior" value="5"/>
+<keyword name="mischief" value="5"/>
+<keyword name="mischiev" value="5"/> 
+<keyword name="miser" value="11"/>
+<keyword name="miseri" value="7"/>
+<keyword name="misfortun" value="5"/>
+<keyword name="mishandl" value="5"/>
+<keyword name="mishap" value="5"/>
+<keyword name="misinform" value="5"/> 
+<keyword name="mislead" value="5"/>
+<keyword name="misrepres" value="5"/>
+<keyword name="mistrust" value="5"/>
+<keyword name="misunderstood" value="5"/>
+<keyword name="misus" value="5"/>
+<keyword name="mix" value="7"/>
+<keyword name="mock" value="5"/>
+<keyword name="mockeri" value="5"/>
+<keyword name="molest" value="5"/>
+<keyword name="neglect" value="5"/> 
+<keyword name="nervous" value="11"/>
+<keyword name="neurot" value="11"/>
+<keyword name="pandemonium" value="8"/>
+<keyword name="pathet" value="5"/>
+<keyword name="patron" value="5"/>
+<keyword name="pervert" value="5"/>
+<keyword name="pessim" value="5"/>
+<keyword name="pessimist" value="5"/>
+<keyword name="piti" value="5"/>
+<keyword name="pitiless" value="8"/>
+<keyword name="pointless" value="5"/>
+<keyword name="prejudici" value="5"/>
+<keyword name="preposter" value="5"/>
+<keyword name="prohibit" value="8"/>
+<keyword name="reckless" value="5"/> 
+<keyword name="remors" value="11"/>
+<keyword name="sabotag" value="5"/>
+<keyword name="scandal" value="5"/>
+<keyword name="screw" value="5"/>
+<keyword name="scrutin" value="5"/>
+<keyword name="shallow" value="5"/>
+<keyword name="shame" value="11"/>
+<keyword name="shameless" value="7"/>
+<keyword name="shoddi" value="5"/>
+<keyword name="sinist" value="5"/>
+<keyword name="slander" value="5"/>
+<keyword name="slaughter" value="5"/>
+<keyword name="smear" value="5"/>
+<keyword name="sucker" value="5"/>
+<keyword name="terrifi" value="11"/>
+<keyword name="terror" value="11"/> 
+<keyword name="theft" value="5"/> 
+<keyword name="threat" value="8"/>
+<keyword name="tortur" value="11"/>
+<keyword name="traitor" value="5"/>
+<keyword name="tramp" value="5"/>
+<keyword name="treacher" value="5"/>
+<keyword name="treacheri" value="5"/>
+<keyword name="treason" value="5"/> 
+<keyword name="turmoil" value="5"/>
+<keyword name="tyranni" value="8"/>
+<keyword name="undesir" value="5"/>
+<keyword name="unfaith" value="5"/>
+<keyword name="unkind" value="5"/>
+<keyword name="unpleas" value="5"/>
+<keyword name="unreli" value="5"/>
+<keyword name="unsuccess" value="5"/>
+<keyword name="vanish" value="5"/>
+<keyword name="vengeanc" value="8"/>
+<keyword name="viciou" value="5"/>
+<keyword name="violat" value="5"/> 
+<keyword name="violenc" value="8"/>
+<keyword name="vulgar" value="5"/>
+<keyword name="whine" value="5"/>
+<keyword name="wors" value="5"/>
+<keyword name="worst" value="5"/>
+<keyword name="worthless" value="5"/>
+<keyword name="wreck" value="5"/>
+<keyword name="adversari" value="5"/>
+<keyword name="advers" value="5"/>
+<keyword name="advocaci" value="5"/>
+<keyword name="affront" value="5"/>
+<keyword name="aftermath" value="5"/>
+<keyword name="anarch" value="11"/>
+<keyword name="anarchist" value="11"/>
+<keyword name="anathema" value="5"/>
+<keyword name="anguish" value="5"/>
+<keyword name="antichrist" value="5"/>
+<keyword name="antisoci" value="5"/>
+<keyword name="antithesi" value="5"/>
+<keyword name="anxieti" value="14"/>
+<keyword name="armament" value="5"/>
+<keyword name="arson" value="5"/>
+<keyword name="asshol" value="14"/>
+<keyword name="atroci" value="14"/>
+<keyword name="atroc" value="14"/>
+<keyword name="bad" value="5"/>
+<keyword name="badger" value="5"/>
+<keyword name="banger" value="5"/>
+<keyword name="banshe" value="5"/>
+<keyword name="barb" value="5"/>
+<keyword name="barrier" value="5"/>
+<keyword name="bastion" value="5"/>
+<keyword name="batteri" value="3"/>
+<keyword name="bayonet" value="5"/>
+<keyword name="bearish" value="5"/>
+<keyword name="beast" value="5"/>
+<keyword name="beat" value="5"/>
+<keyword name="berserk" value="5"/>
+<keyword name="bia" value="5"/>
+<keyword name="bicker" value="5"/>
+<keyword name="bigot" value="14"/>
+<keyword name="bile" value="5"/>
+<keyword name="birch" value="5"/>
+<keyword name="bitch" value="5"/>
+<keyword name="bitterli" value="11"/>
+<keyword name="blasphem" value="11"/>
+<keyword name="blasphemi" value="11"/>
+<keyword name="blast" value="5"/>
+<keyword name="blaze" value="5"/>
+<keyword name="boister" value="5"/>
+<keyword name="brawl" value="5"/>
+<keyword name="brimston" value="5"/>
+<keyword name="broil" value="5"/>
+<keyword name="brunt" value="5"/>
+<keyword name="buffet" value="5"/>
+<keyword name="bugaboo" value="5"/>
+<keyword name="bulli" value="8"/>
+<keyword name="bummer" value="5"/>
+<keyword name="burial" value="5"/>
+<keyword name="burk" value="5"/>
+<keyword name="bust" value="5"/>
+<keyword name="butcher" value="5"/>
+<keyword name="cacophoni" value="5"/>
+<keyword name="cad" value="5"/>
+<keyword name="callou" value="5"/>
+<keyword name="canker" value="5"/>
+<keyword name="carnag" value="11"/>
+<keyword name="casualti" value="5"/>
+<keyword name="chaff" value="5"/>
+<keyword name="claimant" value="5"/>
+<keyword name="clamor" value="5"/>
+<keyword name="collis" value="5"/>
+<keyword name="collus" value="5"/>
+<keyword name="combat" value="5"/>
+<keyword name="comb" value="5"/>
+<keyword name="commot" value="5"/>
+<keyword name="conceal" value="5"/>
+<keyword name="concuss" value="5"/>
+<keyword name="confin" value="5"/>
+<keyword name="conflagr" value="5"/>
+<keyword name="confus" value="5"/>
+<keyword name="conspir" value="5"/>
+<keyword name="contraband" value="5"/>
+<keyword name="controversi" value="8"/>
+<keyword name="convict" value="8"/>
+<keyword name="copycat" value="8"/>
+<keyword name="coup" value="8"/>
+<keyword name="crabbi" value="5"/>
+<keyword name="crack" value="5"/>
+<keyword name="cranki" value="5"/>
+<keyword name="crime" value="8"/>
+<keyword name="crucifixion" value="11"/>
+<keyword name="cruelli" value="14"/>
+<keyword name="cruelti" value="14"/>
+<keyword name="crunch" value="5"/>
+<keyword name="crush" value="5"/>
+<keyword name="curs" value="11"/>
+<keyword name="cuss" value="5"/>
+<keyword name="cutthroat" value="5"/>
+<keyword name="damnat" value="5"/>
+<keyword name="dash" value="5"/>
+<keyword name="dastardli" value="5"/>
+<keyword name="deadli" value="5"/>
+<keyword name="death" value="5"/>
+<keyword name="decri" value="5"/>
+<keyword name="defamatori" value="5"/>
+<keyword name="defiant" value="5"/>
+<keyword name="deflat" value="5"/>
+<keyword name="defraud" value="5"/>
+<keyword name="degeneraci" value="5"/>
+<keyword name="delai" value="5"/>
+<keyword name="deleteri" value="5"/>
+<keyword name="delus" value="5"/>
+<keyword name="delusion" value="5"/>
+<keyword name="denunci" value="5"/>
+<keyword name="deplor" value="5"/>
+<keyword name="deprav" value="5"/>
+<keyword name="depreci" value="5"/>
+<keyword name="depress" value="5"/>
+<keyword name="depriv" value="5"/>
+<keyword name="derang" value="5"/>
+<keyword name="deris" value="5"/>
+<keyword name="derog" value="5"/>
+<keyword name="desert" value="5"/>
+<keyword name="desist" value="5"/>
+<keyword name="despair" value="5"/>
+<keyword name="despot" value="5"/>
+<keyword name="destroy" value="5"/>
+<keyword name="destruct" value="5"/>
+<keyword name="detaine" value="5"/>
+<keyword name="deterior" value="5"/>
+<keyword name="deton" value="5"/>
+<keyword name="detract" value="5"/>
+<keyword name="devast" value="5"/>
+<keyword name="diatrib" value="5"/>
+<keyword name="dictatori" value="5"/>
+<keyword name="dictatorship" value="5"/>
+<keyword name="difficulti" value="5"/>
+<keyword name="disagre" value="5"/>
+<keyword name="disallow" value="5"/>
+<keyword name="disast" value="5"/>
+<keyword name="disastr" value="5"/>
+<keyword name="disclaim" value="5"/>
+<keyword name="discont" value="5"/>
+<keyword name="discord" value="5"/>
+<keyword name="diseas" value="5"/>
+<keyword name="disfigur" value="11"/>
+<keyword name="disgruntl" value="11"/>
+<keyword name="disillusion" value="5"/>
+<keyword name="disinform" value="5"/>
+<keyword name="dislik" value="5"/>
+<keyword name="disloc" value="5"/>
+<keyword name="dismai" value="5"/>
+<keyword name="dismiss" value="5"/>
+<keyword name="disparag" value="5"/>
+<keyword name="displac" value="5"/>
+<keyword name="dispossess" value="5"/>
+<keyword name="disput" value="5"/>
+<keyword name="disqualifi" value="5"/>
+<keyword name="disreput" value="5"/>
+<keyword name="disrespect" value="11"/>
+<keyword name="disrupt" value="5"/>
+<keyword name="dissens" value="5"/>
+<keyword name="disservic" value="5"/>
+<keyword name="dissid" value="5"/>
+<keyword name="dissolut" value="5"/>
+<keyword name="distract" value="5"/>
+<keyword name="distress" value="11"/>
+<keyword name="distrust" value="14"/>
+<keyword name="disus" value="5"/>
+<keyword name="dump" value="5"/>
+<keyword name="dupe" value="5"/>
+<keyword name="duress" value="5"/>
+<keyword name="elimin" value="5"/>
+<keyword name="erad" value="5"/>
+<keyword name="exil" value="5"/>
+<keyword name="explod" value="5"/>
+<keyword name="explos" value="5"/>
+<keyword name="expuls" value="5"/>
+<keyword name="extermin" value="5"/>
+<keyword name="extinguish" value="5"/>
+<keyword name="fail" value="5"/>
+<keyword name="fallaci" value="5"/>
+<keyword name="falsehood" value="5"/>
+<keyword name="falsif" value="5"/>
+<keyword name="fatal" value="5"/>
+<keyword name="forbid" value="5"/>
+<keyword name="forsaken" value="5"/>
+<keyword name="foul" value="5"/>
+<keyword name="frenet" value="5"/>
+<keyword name="frenzi" value="5"/>
+<keyword name="friction" value="5"/>
+<keyword name="fright" value="5"/>
+<keyword name="gallow" value="5"/>
+<keyword name="gang" value="5"/>
+<keyword name="gent" value="5"/>
+<keyword name="gibberish" value="5"/>
+<keyword name="glare" value="5"/>
+<keyword name="gnome" value="5"/>
+<keyword name="godless" value="5"/>
+<keyword name="greed" value="5"/>
+<keyword name="grievou" value="5"/>
+<keyword name="grim" value="5"/>
+<keyword name="grope" value="5"/>
+<keyword name="growl" value="5"/>
+<keyword name="gruff" value="5"/>
+<keyword name="grumbl" value="5"/>
+<keyword name="grumpi" value="5"/>
+<keyword name="guillotin" value="5"/>
+<keyword name="hellish" value="5"/>
+<keyword name="hoax" value="5"/>
+<keyword name="homeless" value="5"/>
+<keyword name="homicid" value="5"/>
+<keyword name="hopeless" value="5"/>
+<keyword name="horrif" value="5"/>
+<keyword name="idioci" value="5"/>
+<keyword name="illeg" value="5"/>
+<keyword name="inappropri" value="5"/>
+<keyword name="inattent" value="5"/>
+<keyword name="incarcer" value="5"/>
+<keyword name="incas" value="5"/>
+<keyword name="incest" value="5"/>
+<keyword name="inconsider" value="5"/>
+<keyword name="inconveni" value="5"/>
+<keyword name="incredul" value="5"/>
+<keyword name="incur" value="5"/>
+<keyword name="indentur" value="5"/>
+<keyword name="indict" value="5"/>
+<keyword name="indoctrin" value="5"/>
+<keyword name="inept" value="5"/>
+<keyword name="inequ" value="5"/>
+<keyword name="inexcus" value="5"/>
+<keyword name="infam" value="5"/>
+<keyword name="infanticid" value="5"/>
+<keyword name="infantil" value="5"/>
+<keyword name="inferno" value="5"/>
+<keyword name="infidel" value="5"/>
+<keyword name="infract" value="5"/>
+<keyword name="inhibit" value="5"/>
+<keyword name="inhuman" value="11"/>
+<keyword name="injustic" value="14"/>
+<keyword name="inop" value="5"/>
+<keyword name="insecur" value="5"/>
+<keyword name="insidi" value="5"/>
+<keyword name="insignific" value="5"/>
+<keyword name="intimid" value="5"/>
+<keyword name="intrud" value="5"/>
+<keyword name="intrus" value="5"/>
+<keyword name="invad" value="5"/>
+<keyword name="invas" value="5"/>
+<keyword name="irreconcil" value="5"/>
+<keyword name="jab" value="5"/>
+<keyword name="jerk" value="14"/>
+<keyword name="lawless" value="5"/>
+<keyword name="lawsuit" value="5"/>
+<keyword name="lynch" value="5"/>
+<keyword name="malpractic" value="5"/>
+<keyword name="maniac" value="5"/>
+<keyword name="masoch" value="9"/>
+<keyword name="masteri" value="5"/>
+<keyword name="melodrama" value="5"/>
+<keyword name="misconcept" value="5"/>
+<keyword name="morbid" value="5"/>
+<keyword name="mortal" value="5"/>
+<keyword name="mutini" value="5"/>
+<keyword name="obnoxi" value="11"/>
+<keyword name="oppressor" value="5"/>
+<keyword name="pervers" value="5"/>
+<keyword name="phoni" value="5"/>
+<keyword name="picket" value="5"/>
+<keyword name="pillag" value="5"/>
+<keyword name="powerless" value="5"/>
+<keyword name="prick" value="5"/>
+<keyword name="profan" value="5"/>
+<keyword name="punch" value="5"/>
+<keyword name="rampag" value="5"/>
+<keyword name="ransom" value="5"/>
+<keyword name="rascal" value="5"/>
+<keyword name="rebellion" value="5"/>
+<keyword name="renegad" value="5"/>
+<keyword name="renounc" value="5"/>
+<keyword name="repel" value="5"/>
+<keyword name="reprimand" value="5"/>
+<keyword name="repris" value="5"/>
+<keyword name="restrain" value="5"/>
+<keyword name="restrict" value="5"/>
+<keyword name="retali" value="5"/>
+<keyword name="retaliatori" value="5"/>
+<keyword name="revolt" value="5"/>
+<keyword name="ruthless" value="8"/>
+<keyword name="savag" value="8"/>
+<keyword name="savageri" value="11"/>
+<keyword name="scapegoat" value="11"/>
+<keyword name="segreg" value="5"/>
+<keyword name="senseless" value="5"/>
+<keyword name="separatist" value="5"/>
+<keyword name="shackl" value="5"/>
+<keyword name="shit" value="5"/>
+<keyword name="sin" value="5"/>
+<keyword name="sinner" value="5"/>
+<keyword name="slap" value="11"/>
+<keyword name="slaveri" value="5"/>
+<keyword name="slai" value="5"/>
+<keyword name="slayer" value="5"/>
+<keyword name="slut" value="5"/>
+<keyword name="sly" value="5"/>
+<keyword name="smack" value="5"/>
+<keyword name="smite" value="5"/>
+<keyword name="smuggler" value="5"/>
+<keyword name="suppress" value="5"/>
+<keyword name="tension" value="5"/>
+<keyword name="terribl" value="5"/>
+<keyword name="terrorist" value="5"/>
+<keyword name="theocrat" value="5"/>
+<keyword name="thief" value="5"/>
+<keyword name="thoughtless" value="5"/>
+<keyword name="thrash" value="5"/>
+<keyword name="uncontrol" value="5"/>
+<keyword name="underpaid" value="5"/>
+<keyword name="unforgiv" value="5"/>
+<keyword name="unfriendli" value="5"/>
+<keyword name="unfulfil" value="5"/>
+<keyword name="ungrat" value="5"/>
+<keyword name="unhappi" value="5"/>
+<keyword name="unlaw" value="5"/>
+<keyword name="unlucki" value="5"/>
+<keyword name="unpaid" value="5"/>
+<keyword name="unruli" value="5"/>
+<keyword name="unsettl" value="5"/>
+<keyword name="unsympathet" value="5"/>
+<keyword name="unthink" value="5"/>
+<keyword name="untoward" value="5"/>
+<keyword name="untrustworthi" value="5"/>
+<keyword name="upheav" value="5"/>
+<keyword name="usurp" value="5"/>
+<keyword name="vendetta" value="14"/>
+<keyword name="vermin" value="5"/>
+<keyword name="victim" value="5"/>
+<keyword name="villain" value="5"/>
+<keyword name="vindic" value="5"/>
+<keyword name="virul" value="5"/>
+<keyword name="volatil" value="5"/>
+<keyword name="wrongdo" value="5"/>
+</emotion>
+  <emotion name="disgust">
+    <keyword name="cockroach" value="11"/>
+    <keyword name="rat" value="11"/>
+    <keyword name="fetid" value="11"/>
+    <keyword name="miseri" value="11"/>
+    <keyword name="beetle" value="3"/>
+    <keyword name="slimi" value="11"/>
+    <keyword name="exploit" value="5"/>
+    <keyword name="scorn" value="5"/>
+    <keyword name="spittl" value="5"/>
+    <keyword name="feac" value="5"/>
+    <keyword name="misbehav" value="5"/>
+    <keyword name="brib" value="3"/>
+    <keyword name="phlegm" value="14"/>
+    <keyword name="mucou" value="14"/>
+    <keyword name="ruin" value="11"/>
+    <keyword name="urin" value="11"/>
+    <keyword name="faec" value="11"/>
+    <keyword name="septic" value="14"/>
+    <keyword name="morbid" value="11"/>
+    <keyword name="skunk" value="5"/>
+    <keyword name="roach" value="3"/>
+    <keyword name="worm" value="3"/>
+    <keyword name="rotten" value="14"/>
+    <keyword name="unsavouri" value="14"/>
+    <keyword name="castrat" value="11"/>
+    <keyword name="fart" value="11"/>
+    <keyword name="sadist" value="14"/>
+    <keyword name="execut" value="11"/>
+    <keyword name="pornograph" value="14"/>
+    <keyword name="overeat" value="14"/>
+    <keyword name="drunken" value="8"/>
+    <keyword name="slaughter" value="14"/>
+    <keyword name="exitu" value="14"/>
+    <keyword name="rubb" value="11"/>
+    <keyword name="spitt" value="11"/>
+    <keyword name="spit" value="11"/>
+    <keyword name="spoilt" value="11" />
+    <keyword name="maltreat" value="11"/>
+    <keyword name="odvratnost" value="17"/>
+    <keyword name="throw_up" value="17"/>
+    <keyword name="embezzel" value="8"/>
+    <keyword name="abus" value="11"/>
+    <keyword name="abu" value="11"/>
+    <keyword name="vandal" value="11"/>
+    <keyword name="despi" value="8"/>
+    <keyword name="penuri" value="8"/>
+    <keyword name="addict" value="3"/>
+    <keyword name="pornographi" value="5"/>
+    <keyword name="rubbish" value="5"/>
+    <keyword name="inhuman" value="11"/>
+    <keyword name="decomposit" value="14"/>
+    <keyword name="pollut" value="8"/>
+    <keyword name="starvat" value="8"/>
+    <keyword name="hypocrisi" value="8"/>
+    <keyword name="maggott" value="5"/>
+    <keyword name="maggot" value="5"/>
+    <keyword name="urinat" value="5"/>
+    <keyword name="alcohol" value="11"/>
+    <keyword name="unmor" value="5"/>
+    <keyword name="mess" value="5"/>
+    <keyword name="racist" value="8"/>
+    <keyword name="faschist" value="8"/>
+    <keyword name="corps" value="8"/>
+    <keyword name="boast" value="11"/>
+    <keyword name="vomit" value="14"/>
+    <keyword name="vomitt" value="14"/>
+    <keyword name="drunk" value="8"/>
+    <keyword name="filthi" value="8"/>
+    <keyword name="yukki" value="8"/>
+    <keyword name="pooh" value="8"/>
+    <keyword name="revuls" value="14"/>
+    <keyword name="calumnat" value="14"/>
+    <keyword name="_disgust" value="17"/>
+    <keyword name="drunkard" value="14"/>
+    <keyword name="prostitut" value="5"/>
+    <keyword name="dicrimin" value="8"/>
+    <keyword name="tortur" value="14"/>
+    <keyword name="repugn" value="5" />
+    <keyword name="repuls" value="8" />
+    <keyword name="horror" value="5" />
+    <keyword name="stink" value="14"/>
+    <keyword name="nausea" value="5" />
+    <keyword name="discriminat" value="11" />
+    <keyword name="disgust" value="17" />
+    <keyword name="egoist" value="14"/>
+    <keyword name="dissect" value="5"/>
+    <keyword name="distast" value="5" />
+    <keyword name="foul" value="5" />
+    <keyword name="loathli" value="5" />
+    <keyword name="loathsom" value="5" />
+    <keyword name="repel" value="5" />
+    <keyword name="revolt" value="5" />
+    <keyword name="wick" value="11" />
+    <keyword name="yucki" value="11" />
+    <keyword name="fed_up" value="5" />
+    <keyword name="sick" value="11" />
+    <keyword name="sick_of" value="5" />
+    <keyword name="tired_of" value="5" />
+    <keyword name="nauseat" value="5" />
+    <keyword name="nauseou" value="5" />
+    <keyword name="noisom" value="5" />
+    <keyword name="offens" value="5" />
+    <keyword name="sicken" value="5" />
+    <keyword name="vile" value="14" />
+    <keyword name="queasi" value="5" />
+    <keyword name="sickish" value="5" />
+    <keyword name="hideou" value="5" />
+    <keyword name="abhorr" value="14" />
+    <keyword name="detest" value="8" />
+    <keyword name="obscen" value="11" />
+    <keyword name="churn_up" value="5" />
+    <keyword name="turn_off" value="5" />
+    <keyword name="disgustedli" value="5" />
+    <keyword name="disgustingli" value="5" />
+    <keyword name="distastefulli" value="5" />
+    <keyword name="revoltingli" value="5" />
+    <keyword name="sickeningli" value="5" />
+    <keyword name="abomin" value="5" />
+    <keyword name="odious" value="5" />
+    <keyword name="harrass" value="8"/>
+    <keyword name="beaten" value="11"/>
+    <keyword name="beat" value="11"/>
+<keyword name="abhor" value="7"/>
+<keyword name="amput" value="5"/>
+<keyword name="apathet" value="5"/>
+<keyword name="apathi" value="5"/>
+<keyword name="appal" value="5"/>
+<keyword name="atroci" value="5"/>
+<keyword name="blah" value="5"/>
+<keyword name="callou" value="7"/>
+<keyword name="filth" value="5"/>
+<keyword name="germ" value="5"/>
+<keyword name="grotesqu" value="5"/>
+<keyword name="adulteri" value="8"/>
+<keyword name="advers" value="5"/>
+<keyword name="afflict" value="5"/>
+<keyword name="affront" value="5"/>
+<keyword name="aggrav" value="5"/>
+<keyword name="ammonia" value="5"/>
+<keyword name="amphetamin" value="5"/>
+<keyword name="anaconda" value="5"/>
+<keyword name="atroc" value="14"/>
+<keyword name="atrophi" value="5"/>
+<keyword name="aw" value="5"/>
+<keyword name="awkward" value="3"/>
+<keyword name="bigot" value="11"/>
+<keyword name="bile" value="5"/>
+<keyword name="blemish" value="5"/>
+<keyword name="bloodsh" value="5"/>
+<keyword name="bloodthirsti" value="5"/>
+<keyword name="bloodi" value="5"/>
+<keyword name="blunder" value="5"/>
+<keyword name="bug" value="5"/>
+<keyword name="bum" value="5"/>
+<keyword name="cacophoni" value="5"/>
+<keyword name="cannib" value="5"/>
+<keyword name="carcass" value="5"/>
+<keyword name="catech" value="5"/>
+<keyword name="cholera" value="5"/>
+<keyword name="creatur" value="5"/>
+<keyword name="dastardli" value="5"/>
+<keyword name="devil" value="5"/>
+<keyword name="devilish" value="5"/>
+<keyword name="doomsdai" value="5"/>
+<keyword name="dread" value="5"/>
+<keyword name="dreadfulli" value="5"/>
+<keyword name="drool" value="5"/>
+<keyword name="dy" value="5"/>
+<keyword name="dysenteri" value="5"/>
+<keyword name="egotist" value="5"/>
+<keyword name="flea" value="5"/>
+<keyword name="fleec" value="5"/>
+<keyword name="frown" value="5"/>
+<keyword name="gnome" value="5"/>
+<keyword name="gonorrhea" value="5"/>
+<keyword name="greasi" value="5"/>
+<keyword name="greed" value="5"/>
+<keyword name="greedi" value="5"/>
+<keyword name="gruesom" value="5"/>
+<keyword name="herp" value="5"/>
+<keyword name="herpesviru" value="5"/>
+<keyword name="holocaust" value="5"/>
+<keyword name="hydrocephalu" value="5"/>
+<keyword name="hypertrophi" value="5"/>
+<keyword name="hypocrit" value="5"/>
+<keyword name="jealou" value="5"/>
+<keyword name="jealousi" value="5"/>
+<keyword name="leech" value="5"/>
+<keyword name="leer" value="5"/>
+<keyword name="leprosi" value="5"/>
+<keyword name="measl" value="5"/>
+<keyword name="messi" value="5"/>
+<keyword name="mildew" value="5"/>
+<keyword name="mire" value="5"/>
+<keyword name="misbehavior" value="5"/>
+<keyword name="miser" value="5"/>
+<keyword name="mockeri" value="5"/>
+<keyword name="mock" value="5"/>
+<keyword name="molest" value="5"/>
+<keyword name="rage" value="5"/>
+<keyword name="retard" value="5"/>
+<keyword name="revers" value="5"/>
+<keyword name="rigor" value="5"/>
+<keyword name="sewag" value="5"/>
+<keyword name="sewer" value="5"/>
+<keyword name="sewerag" value="5"/>
+<keyword name="slime" value="5"/>
+<keyword name="slop" value="5"/>
+<keyword name="sloppi" value="5"/>
+<keyword name="sloth" value="5"/>
+<keyword name="sludg" value="5"/>
+<keyword name="slug" value="5"/>
+<keyword name="slum" value="5"/>
+<keyword name="slur" value="5"/>
+<keyword name="slush" value="5"/>
+<keyword name="slut" value="5"/>
+<keyword name="sly" value="5"/>
+<keyword name="snake" value="5"/>
+<keyword name="snarl" value="5"/>
+<keyword name="swamp" value="5"/>
+<keyword name="swampi" value="5"/>
+<keyword name="swarm" value="5"/>
+<keyword name="swine" value="5"/>
+<keyword name="taboo" value="5"/>
+<keyword name="termit" value="5"/>
+<keyword name="ulcer" value="5"/>
+<keyword name="unwash" value="5"/>
+<keyword name="vainli" value="5"/>
+<keyword name="varicella" value="5"/>
+<keyword name="veget" value="5"/>
+<keyword name="vermin" value="5"/>
+<keyword name="vesicular" value="5"/>
+<keyword name="viciou" value="5"/>
+<keyword name="vultur" value="5"/>  
+</emotion>
+  <emotion name="fear">
+    <keyword name="faint" value="5" />
+    <keyword name="roar" value="5" />
+    <keyword name="snake" value="3" />
+    <keyword name="ghost-lik" value="5" />
+    <keyword name="suddenli" value="5"/>
+    <keyword name="sudden" value="5"/>
+    <keyword name="lose" value="5"/>
+    <keyword name="los" value="5"/>
+    <keyword name="darker" value="5"/>
+    <keyword name="detent" value="11"/>
+    <keyword name="fall_off" value="5"/>
+    <keyword name="holocaust" value="8" />
+    <keyword name="kill" value="5"/>
+    <keyword name="corps" value="7"/>
+    <keyword name="ill" value="8"/>
+    <keyword name="troubl" value="5"/>
+    <keyword name="critic" value="5"/>
+    <keyword name="startl" value="14"/>
+    <keyword name="rob" value="11"/>
+    <keyword name="cautiou" value="11"/>
+    <keyword name="threat" value="11"/>
+    <keyword name="monstrou" value="5"/>
+    <keyword name="warn" value="5"/>
+    <keyword name="bark" value="5"/>
+    <keyword name="petrifi" value="14"/>
+    <keyword name="get_caught" value="11"/>
+    <keyword name="zombi" value="5"/>
+    <keyword name="run_over" value="11"/>
+    <keyword name="run_away" value="11"/>
+    <keyword name="rap" value="11"/>
+    <keyword name="dizzi" value="11"/>
+    <keyword name="dizzin" value="11"/>
+    <keyword name="bite" value="11"/>
+    <keyword name="suspici" value="8"/>
+    <keyword name="dubiou" value="11"/>
+    <keyword name="seclud" value="11"/>
+    <keyword name="bit" value="11"/>
+    <keyword name="vertigo" value="8"/>
+    <keyword name="miscarriag" value="11"/>
+    <keyword name="harrass" value="8"/>
+    <keyword name="beaten" value="11"/>
+    <keyword name="beat" value="11"/>
+    <keyword name="burgl" value="11"/>
+    <keyword name="burgal" value="8"/>
+    <keyword name="mug" value="14"/>
+    <keyword name="mugg" value="14"/>
+    <keyword name="crash_into" value="11"/>
+    <keyword name="crash" value="11"/>
+    <keyword name="near-accid" value="11"/>
+    <keyword name="reveng" value="11"/>
+    <keyword name="creepi" value="11"/>
+    <keyword name="fobic" value="11"/>
+    <keyword name="anxieti" value="11"/>
+    <keyword name="rape" value="14" />
+    <keyword name="worri" value="8"/>
+    <keyword name="insecur" value="11"/>
+    <keyword name="unintelig" value="8"/>
+    <keyword name="nightmar" value="8" />
+    <keyword name="examin" value="8" />
+    <keyword name="hurt" value="14"/>
+    <keyword name="ghost" value="14"/>
+    <keyword name="embarass" value="5"/>
+    <keyword name="trembl" value="5" />
+    <keyword name="chock" value="5" />
+    <keyword name="danger" value="11"/>
+    <keyword name="unknown" value="11"/>
+    <keyword name="molest" value="5"/>
+    <keyword name="break_into" value="8"/>
+    <keyword name="break_in" value="8"/>
+    <keyword name="disappear" value="5" />
+    <keyword name="threaten" value="5" />
+    <keyword name="jump_out" value="5" />
+    <keyword name="drown" value="14" />
+    <keyword name="reprimand" value="8"/>
+    <keyword name="violent" value="5"/>
+    <keyword name="violat" value="5"/>
+    <keyword name="alon" value="11"/>
+    <keyword name="strang" value="5"/>
+    <keyword name="collid" value="5"/>
+    <keyword name="attack" value="5"/>
+    <keyword name="breathless" value="11" />
+    <keyword name="doubt" value="11" />
+    <keyword name="knock_down" value="11"/>
+    <keyword name="exam" value="3"/>
+    <keyword name="test" value="3"/>
+    <keyword name="midterm" value="3"/>
+    <keyword name="assault" value="8"/>
+    <keyword name="nervou" value="8" />
+    <keyword name="out_of_control" value="8"/>
+    <keyword name="oper" value="5"/>
+    <keyword name="triller" value="8"/>
+    <keyword name="risk" value="11" />
+    <keyword name="upset" value="5" />
+    <keyword name="confront" value="11"/>
+    <keyword name="drive_off" value="11" />
+    <keyword name="run_out" value="11" />
+    <keyword name="wait" value="5" />
+    <keyword name="cancer" value="5" />
+    <keyword name="death" value="14"/>
+    <keyword name="scream" value="5" />
+    <keyword name="madman" value="5"/>
+    <keyword name="unpleas" value="11"/>
+    <keyword name="accid" value="14"/>
+    <keyword name="unassert" value="5" />
+    <keyword name="trepid" value="5" />
+    <keyword name="timid" value="11" />
+    <keyword name="timor" value="11" />
+    <keyword name="suspens" value="5" />
+    <keyword name="stage_fright" value="5" />
+    <keyword name="shyness" value="5" />
+    <keyword name="shadow" value="5" />
+    <keyword name="scare" value="17" />
+    <keyword name="imprison" value="5"/>
+    <keyword name="scar" value="17" />
+    <keyword name="skidd" value="5"/>
+    <keyword name="skid" value="5"/>
+    <keyword name="strand" value="11"/>
+    <keyword name="by_myself" value="8"/>
+    <keyword name="panic_attack" value="5" />
+    <keyword name="monster" value="5"/>
+    <keyword name="presag" value="5" />
+    <keyword name="panic" value="14" />
+    <keyword name="terror" value="14" />
+    <keyword name="intimid" value="11" />
+    <keyword name="hysteria" value="14" />
+    <keyword name="horror" value="11" />
+    <keyword name="suspicion" value="11"/>
+    <keyword name="hesit" value="11" />
+    <keyword name="heartless" value="5" />
+    <keyword name="coldhearted" value="5" />
+    <keyword name="hardhearted" value="5" />
+    <keyword name="forebod" value="5" />
+    <keyword name="premonit" value="5" />
+    <keyword name="presenti" value="5" />
+    <keyword name="chase" value="5" />
+    <keyword name="spider" value="5" />
+    <keyword name="cha" value="5" />
+    <keyword name="threateningli" value="5"/>
+    <keyword name="bode" value="5" />
+    <keyword name="fear" value="17" />
+    <keyword name="fright" value="11" />
+    <keyword name="pursu" value="11" />
+    <keyword name="diffid" value="11" />
+    <keyword name="self-doubt" value="5" />
+    <keyword name="self-distrust" value="5" />
+    <keyword name="cruelti" value="14" />
+    <keyword name="merciless" value="5" />
+    <keyword name="pitiless" value="5" />
+    <keyword name="ruthless" value="5" />
+    <keyword name="creep" value="5" />
+    <keyword name="chill" value="8" />
+    <keyword name="pall" value="5" />
+    <keyword name="apprehens" value="11" />
+    <keyword name="dread" value="11" />
+    <keyword name="alarm" value="11" />
+    <keyword name="dismai" value="11" />
+    <keyword name="constern" value="5" />
+    <keyword name="anxiou" value="11" />
+    <keyword name="scarei" value="5" />
+    <keyword name="scari" value="11" />
+    <keyword name="shiveri" value="5" />
+    <keyword name="shudderi" value="5" />
+    <keyword name="cruel" value="14" />
+    <keyword name="unkind" value="5" />
+    <keyword name="terribl" value="14" />
+    <keyword name="aw" value="14" />
+    <keyword name="dire" value="14" />
+    <keyword name="fearsom" value="11" />
+    <keyword name="frighten" value="11" />
+    <keyword name="horrend" value="14" />
+    <keyword name="horrif" value="14" />
+    <keyword name="afraid" value="17" />
+    <keyword name="hardheart" value="5" />
+    <keyword name="atroci" value="5" />
+    <keyword name="horrifi" value="14" />
+    <keyword name="horribl" value="14" />
+    <keyword name="ugli" value="14" />
+    <keyword name="horror-stricken" value="5" />
+    <keyword name="horror-struck" value="5" />
+    <keyword name="hideou" value="5" />
+    <keyword name="horrid" value="5" />
+    <keyword name="outrag" value="14" />
+    <keyword name="hyster" value="14" />
+    <keyword name="browbeaten" value="5" />
+    <keyword name="bulli" value="11" />
+    <keyword name="cow" value="5" />
+    <keyword name="hangdog" value="5" />
+    <keyword name="panicki" value="5" />
+    <keyword name="panick" value="14" />
+    <keyword name="panic-stricken" value="5" />
+    <keyword name="panic-struck" value="5" />
+    <keyword name="terrifi" value="17" />
+    <keyword name="shy" value="8" />
+    <keyword name="unsur" value="8" />
+    <keyword name="cliff-hang" value="5" />
+    <keyword name="alert" value="8" />
+    <keyword name="appal" value="11" />
+    <keyword name="fawn" value="5" />
+    <keyword name="crawl" value="5" />
+    <keyword name="cring" value="5" />
+    <keyword name="cower" value="5" />
+    <keyword name="grovel" value="5" />
+    <keyword name="daunt" value="5" />
+    <keyword name="dash" value="5" />
+    <keyword name="scare_off" value="5" />
+    <keyword name="frighten_off" value="5" />
+    <keyword name="scare_awai" value="5" />
+    <keyword name="frighten_awai" value="5" />
+    <keyword name="affright" value="5" />
+    <keyword name="anxious" value="14" />
+    <keyword name="uneasili" value="5" />
+    <keyword name="cruelli" value="5" />
+    <keyword name="fearfulli" value="5" />
+    <keyword name="heartlessli" value="5" />
+    <keyword name="hesitantli" value="5" />
+    <keyword name="hesitatingli" value="5" />
+    <keyword name="horrifyingli" value="5" />
+    <keyword name="dreadfulli" value="5" />
+    <keyword name="awfulli" value="5" />
+    <keyword name="hideous" value="5" />
+    <keyword name="horridli" value="5" />
+    <keyword name="monstrous" value="5" />
+    <keyword name="frighteningli" value="5" />
+    <keyword name="scarili" value="5" />
+    <keyword name="shyli" value="5" />
+    <keyword name="timidli" value="5" />
+    <keyword name="bashfulli" value="5" />
+    <keyword name="trepidli" value="5" />
+    <keyword name="dead" value="14"/>
+    <keyword name="catastroph" value="14"/>
+    <keyword name="die" value="14"/>
+    <keyword name="dark" value="11" />
+    <keyword name="di" value="14"/>
+    <keyword name="operat" value="5"/>
+<keyword name="abscond" value="5"/>
+<keyword name="aggrav" value="8"/>
+<keyword name="aggress" value="8"/>
+<keyword name="aggressor" value="5"/>
+<keyword name="aggriev" value="5"/>
+<keyword name="anguish" value="11"/>
+<keyword name="bewild" value="5"/>
+<keyword name="bewilder" value="5"/>
+<keyword name="choke" value="5"/>
+<keyword name="concern" value="5"/>
+<keyword name="conflict" value="5"/>
+<keyword name="coward" value="5"/>
+<keyword name="suffer" value="7"/>
+<keyword name="suffoc" value="5"/>
+<keyword name="tear" value="5"/>
+<keyword name="trauma" value="5"/>
+<keyword name="traumat" value="11"/>
+<keyword name="whimper" value="11"/>
+<keyword name="whip" value="8"/>
+<keyword name="woe" value="7"/>
+<keyword name="woeful" value="11"/>
+<keyword name="worrier" value="5"/>
+<keyword name="cranki" value="5"/>
+<keyword name="crippl" value="7"/>
+<keyword name="crisi" value="5"/>
+<keyword name="mortifi" value="11"/>
+<keyword name="motionless" value="5"/>
+<keyword name="paralyz" value="5"/>
+<keyword name="paranoid" value="11"/>
+<keyword name="perturb" value="7"/>
+<keyword name="phobia" value="11"/>
+<keyword name="shock" value="12"/>
+<keyword name="sob" value="11"/>
+<keyword name="somber" value="11"/>
+<keyword name="sore" value="11"/>
+<keyword name="sorrow" value="11"/>
+<keyword name="sorri" value="11"/>
+<keyword name="abandon" value="11"/>
+<keyword name="abduct" value="11"/>
+<keyword name="abyss" value="11"/>
+<keyword name="accident" value="11"/>
+<keyword name="afflict" value="11"/>
+<keyword name="affront" value="11"/>
+<keyword name="aftermath" value="11"/>
+<keyword name="agon" value="5"/>
+<keyword name="agoni" value="5"/>
+<keyword name="ail" value="11"/>
+<keyword name="ambush" value="11"/>
+<keyword name="anaconda" value="5"/>
+<keyword name="anthrax" value="5"/>
+<keyword name="antichrist" value="5"/>
+<keyword name="assail" value="5"/>
+<keyword name="assassin" value="5"/>
+<keyword name="astrai" value="5"/>
+<keyword name="auditor" value="5"/>
+<keyword name="blindfold" value="5"/>
+<keyword name="bloodsh" value="11"/>
+<keyword name="bloodthirsti" value="11"/>
+<keyword name="bloodi" value="8"/>
+<keyword name="bomb" value="5"/>
+<keyword name="bombard" value="5"/>
+<keyword name="bomber" value="5"/>
+<keyword name="bondag" value="5"/>
+<keyword name="brute" value="5"/>
+<keyword name="bugaboo" value="5"/>
+<keyword name="bunker" value="5"/>
+<keyword name="burglar" value="5"/>
+<keyword name="burial" value="5"/>
+<keyword name="cowardic" value="5"/>
+<keyword name="cowardli" value="5"/>
+<keyword name="deadli" value="5"/>
+<keyword name="debacl" value="5"/>
+<keyword name="disast" value="5"/>
+<keyword name="disastr" value="5"/>
+<keyword name="diseas" value="5"/>
+<keyword name="disembodi" value="5"/>
+<keyword name="distress" value="5"/>
+<keyword name="dy" value="5"/>
+<keyword name="earthquak" value="5"/>
+<keyword name="fail" value="5"/>
+<keyword name="failur" value="5"/>
+<keyword name="falter" value="5"/>
+<keyword name="fatal" value="5"/>
+<keyword name="foreclos" value="5"/>
+<keyword name="hazard" value="5"/>
+<keyword name="haze" value="5"/>
+<keyword name="helpless" value="5"/>
+<keyword name="homeless" value="5"/>
+<keyword name="hopeless" value="5"/>
+<keyword name="incarcer" value="5"/>
+<keyword name="jeopard" value="5"/>
+<keyword name="jeopardi" value="5"/>
+<keyword name="lethal" value="5"/>
+<keyword name="leukemia" value="5"/>
+<keyword name="malaria" value="5"/>
+<keyword name="morbid" value="5"/>
+<keyword name="morgu" value="5"/>
+<keyword name="mortal" value="5"/>
+<keyword name="mortgag" value="5"/>
+<keyword name="mortgagor" value="5"/>
+<keyword name="mortif" value="5"/>
+<keyword name="mortuari" value="5"/>
+<keyword name="murder" value="5"/>
+<keyword name="paralysi" value="5"/>
+<keyword name="paranoia" value="5"/>
+<keyword name="parasit" value="5"/>
+<keyword name="pneumonia" value="5"/>
+<keyword name="poison" value="5"/>
+<keyword name="polio" value="5"/>
+<keyword name="powerless" value="5"/>
+<keyword name="radiat" value="5"/>
+<keyword name="radioact" value="5"/>
+<keyword name="tremor" value="5"/>
+<keyword name="varicella" value="5"/>
+<keyword name="venom" value="5"/>
+<keyword name="victim" value="5"/>
+<keyword name="violenc" value="5"/>
+<keyword name="viper" value="5"/>
+<keyword name="virul" value="5"/>
+<keyword name="weakli" value="5"/>
+<keyword name="wimp" value="5"/>
+<keyword name="wimpi" value="5"/>
+<keyword name="witch" value="5"/>
+<keyword name="xenophobia" value="5"/>
+<keyword name="yell" value="5"/>
+<keyword name="yelp" value="5"/>
+  </emotion>
+  <emotion name="joy">
+    <keyword name="afford" value="8"/>
+    <keyword name="want" value="5"/>
+    <keyword name="reconcil" value="5"/>
+    <keyword name="pregnant" value="3"/>
+    <keyword name="wonder" value="5"/>
+    <keyword name="hir" value="8"/>
+    <keyword name="overjoi" value="8"/>
+    <keyword name="lik" value="5"/>
+    <keyword name="jok" value="11"/>
+    <keyword name="celebrat" value="8"/>
+    <keyword name="award" value="5"/>
+    <keyword name="gold-med" value="5"/>
+    <keyword name="joyful" value="5"/>
+    <keyword name="aliv" value="5"/>
+    <keyword name="luck" value="5" />
+    <keyword name="winn" value="5" />
+    <keyword name="bett" value="5"/>
+    <keyword name="scoar" value="5"/>
+    <keyword name="help" value="5" />
+    <keyword name="promot" value="5"/>
+    <keyword name="elect" value="5" />
+    <keyword name="worthwhil" value="8"/>
+    <keyword name="admiss" value="5" />
+    <keyword name="beauti" value="5" />
+    <keyword name="admitt" value="5"/>
+    <keyword name="valoriz" value="8" />
+    <keyword name="succ" value="11"/>
+    <keyword name="lov" value="8"/>
+    <keyword name="achiev" value="5"/>
+    <keyword name="decent" value="5"/>
+    <keyword name="employ" value="5"/>
+    <keyword name="emploi" value="5"/>
+    <keyword name="excel" value="5"/>
+    <keyword name="child" value="5" />
+    <keyword name="succe" value="11" />
+    <keyword name="comedi" value="11" />
+    <keyword name="amu" value="11" />
+    <keyword name="birthdai" value="5" />
+    <keyword name="fresh" value="5" />
+    <keyword name="wed" value="8" />
+    <keyword name="qualifi" value="8"/>
+    <keyword name="finish" value="3" />
+    <keyword name="birth" value="5"/>
+    <keyword name="scor" value="5"/>
+    <keyword name="honey-moon" value="8"/>
+    <keyword name="celebr" value="11"/>
+    <keyword name="graduat" value="14"/>
+    <keyword name="bear" value="8" />
+    <keyword name="vacat" value="8" />
+    <keyword name="save" value="8"/>
+    <keyword name="sav" value="8"/>
+    <keyword name="ki" value="14"/>
+    <keyword name="kiss" value="14"/>
+    <keyword name="congratul" value="14"/>
+    <keyword name="congratulat" value="14"/>
+    <keyword name="win" value="8"/>
+    <keyword name="true" value="8"/>
+    <keyword name="champion" value="8"/>
+    <keyword name="joke" value="8"/>
+    <keyword name="pass" value="11"/>
+    <keyword name="pa" value="11"/>
+    <keyword name="accept" value="5"/>
+    <keyword name="hire" value="5"/>
+    <keyword name="rejoin" value="5"/>
+    <keyword name="recov" value="8"/>
+    <keyword name="friend" value="3"/>
+    <keyword name="undefeat" value="11"/>
+    <keyword name="scholarship" value="5"/>
+    <keyword name="fit" value="8" />
+    <keyword name="make_up" value="8" />
+    <keyword name="parti" value="14"/>
+    <keyword name="worship" value="14" />
+    <keyword name="ador" value="14" />
+    <keyword name="warmhearted" value="5" />
+    <keyword name="warmth" value="11" />
+    <keyword name="triumph" value="17" />
+    <keyword name="togeth" value="5" />
+    <keyword name="titil" value="5" />
+    <keyword name="sympathi" value="11" />
+    <keyword name="fellow_feel" value="5" />
+    <keyword name="softhearted" value="5" />
+    <keyword name="tender" value="11" />
+    <keyword name="soft_spot" value="5" />
+    <keyword name="smug" value="5" />
+    <keyword name="satisfact" value="5" />
+    <keyword name="rejoic" value="17" />
+    <keyword name="regard" value="5" />
+    <keyword name="respect" value="11" />
+    <keyword name="puppy_lov" value="5" />
+    <keyword name="calf_lov" value="5" />
+    <keyword name="crush" value="8" />
+    <keyword name="infatu" value="11" />
+    <keyword name="protect" value="8" />
+    <keyword name="pride" value="5" />
+    <keyword name="prefer" value="5" />
+    <keyword name="penchant" value="5" />
+    <keyword name="predilect" value="5" />
+    <keyword name="tast" value="5" />
+    <keyword name="loyalti" value="14" />
+    <keyword name="loving" value="5" />
+    <keyword name="care" value="11" />
+    <keyword name="love" value="14" />
+    <keyword name="belov" value="5"/>
+    <keyword name="holidai" value="5"/>
+    <keyword name="wish" value="5"/>
+    <keyword name="kindhearted" value="5" />
+    <keyword name="joi" value="14" />
+    <keyword name="joyous" value="5" />
+    <keyword name="joy" value="14" />
+    <keyword name="jolliti" value="5" />
+    <keyword name="jovial" value="11" />
+    <keyword name="jocund" value="5" />
+    <keyword name="jocular" value="11" />
+    <keyword name="identif" value="5" />
+    <keyword name="feeling_of_ident" value="5" />
+    <keyword name="hilar" value="5" />
+    <keyword name="mirth" value="14" />
+    <keyword name="glee" value="14" />
+    <keyword name="gleeful" value="14" />
+    <keyword name="hero_worship" value="5" />
+    <keyword name="happi" value="17" />
+    <keyword name="gusto" value="5" />
+    <keyword name="relish" value="11" />
+    <keyword name="zest" value="5" />
+    <keyword name="good_wil" value="5" />
+    <keyword name="goodwil" value="5" />
+    <keyword name="gloat" value="5" />
+    <keyword name="schadenfreud" value="5" />
+    <keyword name="glad" value="14" />
+    <keyword name="gladsom" value="5" />
+    <keyword name="gaieti" value="5" />
+    <keyword name="merriment" value="5" />
+    <keyword name="fulfil" value="11" />
+    <keyword name="friendli" value="11" />
+    <keyword name="fond" value="11" />
+    <keyword name="fanci" value="5" />
+    <keyword name="partial" value="5" />
+    <keyword name="favor" value="11" />
+    <keyword name="favour" value="5" />
+    <keyword name="exult" value="14" />
+    <keyword name="jubil" value="14" />
+    <keyword name="exuber" value="17" />
+    <keyword name="exhilar" value="14" />
+    <keyword name="excit" value="14" />
+    <keyword name="euphoria" value="14" />
+    <keyword name="enthusiasm" value="5" />
+    <keyword name="empathi" value="5" />
+    <keyword name="elat" value="14" />
+    <keyword name="high_spirit" value="5" />
+    <keyword name="eager" value="11" />
+    <keyword name="avid" value="11" />
+    <keyword name="keen" value="8" />
+    <keyword name="devot" value="14" />
+    <keyword name="devoted" value="5" />
+    <keyword name="content" value="5" />
+    <keyword name="concern" value="5" />
+    <keyword name="complac" value="11" />
+    <keyword name="self-complac" value="5" />
+    <keyword name="self-satisfact" value="5" />
+    <keyword name="compat" value="5" />
+    <keyword name="rapport" value="5" />
+    <keyword name="comfort" value="11" />
+    <keyword name="close" value="3" />
+    <keyword name="intimaci" value="5" />
+    <keyword name="cheer" value="11" />
+    <keyword name="blith" value="11" />
+    <keyword name="carefre" value="8" />
+    <keyword name="insouci" value="5" />
+    <keyword name="lighthearted" value="5" />
+    <keyword name="lightsom" value="5" />
+    <keyword name="captiv" value="14" />
+    <keyword name="enchant" value="11" />
+    <keyword name="enthral" value="14" />
+    <keyword name="fascin" value="14" />
+    <keyword name="buoyanc" value="5" />
+    <keyword name="perki" value="5" />
+    <keyword name="brotherhood" value="5" />
+    <keyword name="bonheur" value="5" />
+    <keyword name="benevol" value="5" />
+    <keyword name="benefic" value="5" />
+    <keyword name="belong" value="5" />
+    <keyword name="bang" value="5" />
+    <keyword name="charg" value="14" />
+    <keyword name="rush" value="5" />
+    <keyword name="flush" value="5" />
+    <keyword name="thrill" value="17" />
+    <keyword name="attach" value="5" />
+    <keyword name="fond_regard" value="5" />
+    <keyword name="ardor" value="5" />
+    <keyword name="ardour" value="5" />
+    <keyword name="elan" value="5" />
+    <keyword name="zeal" value="5" />
+    <keyword name="approv" value="11" />
+    <keyword name="amor" value="5" />
+    <keyword name="enamored" value="5" />
+    <keyword name="amic" value="5" />
+    <keyword name="affect" value="8" />
+    <keyword name="affection" value="14" />
+    <keyword name="heart" value="5" />
+    <keyword name="admir" value="14" />
+    <keyword name="esteem" value="11" />
+    <keyword name="amatori" value="5" />
+    <keyword name="romant" value="5" />
+    <keyword name="am" value="5" />
+    <keyword name="approb" value="5" />
+    <keyword name="approbatori" value="5" />
+    <keyword name="benef" value="5" />
+    <keyword name="good" value="5" />
+    <keyword name="brotherli" value="5" />
+    <keyword name="brotherlik" value="5" />
+    <keyword name="fratern" value="5" />
+    <keyword name="beguil" value="5" />
+    <keyword name="charm" value="14" />
+    <keyword name="delight" value="14" />
+    <keyword name="entranc" value="5" />
+    <keyword name="bewitch" value="5" />
+    <keyword name="unworri" value="5" />
+    <keyword name="sympathet" value="11" />
+    <keyword name="self-satisfi" value="5" />
+    <keyword name="great" value="8" />
+    <keyword name="zealou" value="11" />
+    <keyword name="empath" value="5" />
+    <keyword name="empathet" value="11" />
+    <keyword name="enthusiast" value="14" />
+    <keyword name="euphori" value="5" />
+    <keyword name="euphor" value="17" />
+    <keyword name="gladden" value="5" />
+    <keyword name="stimul" value="8" />
+    <keyword name="ebulli" value="5" />
+    <keyword name="high-spirit" value="5" />
+    <keyword name="triumphal" value="5" />
+    <keyword name="triumphant" value="17" />
+    <keyword name="lovesom" value="5" />
+    <keyword name="warm" value="8" />
+    <keyword name="gala" value="5" />
+    <keyword name="gai" value="5" />
+    <keyword name="festal" value="5" />
+    <keyword name="festiv" value="11" />
+    <keyword name="merri" value="14" />
+    <keyword name="jolli" value="11" />
+    <keyword name="cheeri" value="14" />
+    <keyword name="sunni" value="5" />
+    <keyword name="beam" value="5" />
+    <keyword name="pleas" value="8" />
+    <keyword name="hilari" value="11" />
+    <keyword name="uproari" value="5" />
+    <keyword name="joyou" value="14" />
+    <keyword name="kindheart" value="5" />
+    <keyword name="likabl" value="5" />
+    <keyword name="likeabl" value="5" />
+    <keyword name="satisfi" value="11" />
+    <keyword name="appreci" value="11" />
+    <keyword name="gratifi" value="5" />
+    <keyword name="satiabl" value="5" />
+    <keyword name="satisfactori" value="5" />
+    <keyword name="softheart" value="5" />
+    <keyword name="soft-boil" value="5" />
+    <keyword name="charit" value="5" />
+    <keyword name="kindli" value="5" />
+    <keyword name="teas" value="5" />
+    <keyword name="warmheart" value="5" />
+    <keyword name="look_up_to" value="5" />
+    <keyword name="impress" value="14" />
+    <keyword name="move" value="5" />
+    <keyword name="strike" value="8" />
+    <keyword name="captur" value="5" />
+    <keyword name="enamour" value="5" />
+    <keyword name="tranc" value="5" />
+    <keyword name="becharm" value="5" />
+    <keyword name="enamor" value="5" />
+    <keyword name="inspir" value="11" />
+    <keyword name="urg" value="5" />
+    <keyword name="barrack" value="5" />
+    <keyword name="urge_on" value="5" />
+    <keyword name="exhort" value="5" />
+    <keyword name="pep_up" value="5" />
+    <keyword name="hearten" value="5" />
+    <keyword name="recreat" value="5" />
+    <keyword name="embolden" value="5" />
+    <keyword name="cheer_up" value="5" />
+    <keyword name="chirk_up" value="5" />
+    <keyword name="jolly_along" value="5" />
+    <keyword name="jolly_up" value="5" />
+    <keyword name="sooth" value="14" />
+    <keyword name="consol" value="11" />
+    <keyword name="solac" value="5" />
+    <keyword name="interest" value="8" />
+    <keyword name="occupi" value="5" />
+    <keyword name="lift_up" value="5" />
+    <keyword name="uplift" value="5" />
+    <keyword name="pick_up" value="5" />
+    <keyword name="intox" value="5" />
+    <keyword name="exalt" value="5" />
+    <keyword name="walk_on_air" value="5" />
+    <keyword name="be_on_cloud_nin" value="5" />
+    <keyword name="jump_for_joi" value="5" />
+    <keyword name="live_up_to" value="5" />
+    <keyword name="identifi" value="5" />
+    <keyword name="kid" value="5" />
+    <keyword name="chaff" value="5" />
+    <keyword name="banter" value="5" />
+    <keyword name="enjoi" value="11" />
+    <keyword name="preen" value="5" />
+    <keyword name="revel" value="5" />
+    <keyword name="wallow" value="5" />
+    <keyword name="tickl" value="5" />
+    <keyword name="laudabl" value="5" />
+    <keyword name="praiseworthili" value="5" />
+    <keyword name="commend" value="11" />
+    <keyword name="benefici" value="5" />
+    <keyword name="cheerfulli" value="5" />
+    <keyword name="near" value="5" />
+    <keyword name="nigh" value="5" />
+    <keyword name="posit" value="8"/>
+    <keyword name="pleasant" value="8"/>
+    <keyword name="price" value="8"/>
+    <keyword name="reunion" value="8"/>
+    <keyword name="famili" value="5"/>
+    <keyword name="special" value="5"/>
+    <keyword name="success" value="8"/>
+    <keyword name="healthi" value="8"/>
+    <keyword name="fairli" value="8"/>
+    <keyword name="fair" value="8"/>
+    <keyword name="amus" value="11"/>
+    <keyword name="smile" value="14"/>
+    <keyword name="marri" value="14"/>
+    <keyword name="ecstat" value="14"/>
+    <keyword name="thank" value="14" />
+    <keyword name="desire" value="5" />
+    <keyword name="like" value="5"/>
+    <keyword name="nice" value="8"/>
+    <keyword name="grant" value="5"/>
+    <keyword name="eagerli" value="5" />
+    <keyword name="thirstili" value="5" />
+    <keyword name="with_sympathi" value="5" />
+    <keyword name="with_empathi" value="5" />
+    <keyword name="exuberantli" value="5" />
+    <keyword name="expans" value="5" />
+    <keyword name="riotous" value="5" />
+    <keyword name="exultantli" value="14" />
+    <keyword name="exultingli" value="5" />
+    <keyword name="gloatingli" value="5" />
+    <keyword name="happili" value="5" />
+    <keyword name="merrili" value="5" />
+    <keyword name="mirthfulli" value="14" />
+    <keyword name="gayli" value="5" />
+    <keyword name="jubilantli" value="5" />
+    <keyword name="with_happi" value="5" />
+    <keyword name="gleefulli" value="5" />
+    <keyword name="joyfulli" value="14" />
+    <keyword name="fondli" value="5" />
+    <keyword name="lovingli" value="5" />
+    <keyword name="endearingli" value="5" />
+    <keyword name="proudli" value="11" />
+    <keyword name="with_prid" value="5" />
+    <keyword name="giving_protect" value="5" />
+    <keyword name="offering_protect" value="5" />
+    <keyword name="gratifyingli" value="5" />
+    <keyword name="satisfyingli" value="5" />
+    <keyword name="satisfactorili" value="5" />
+    <keyword name="triumphantli" value="5" />
+    <keyword name="suspens" value="11" />
+    <keyword name="anticip" value="8" />
+    <keyword name="expect" value="5" />
+    <keyword name="cliff-hang" value="5" />
+    <keyword name="look_for" value="5" />
+    <keyword name="look_to" value="5" />
+    <keyword name="well" value="5"/>
+<keyword name="decor" value="5"/>
+<keyword name="grate" value="7"/>
+<keyword name="savor" value="5"/>
+<keyword name="almighti" value="14"/>
+<keyword name="fine" value="5"/>
+<keyword name="perfect" value="9"/>
+<keyword name="excited" value="5"/>
+<keyword name="fantasi" value="5"/>
+<keyword name="flirt" value="7"/>
+<keyword name="fun" value="5"/>
+<keyword name="gaili" value="7"/>
+<keyword name="gratif" value="7"/>
+<keyword name="harmoni" value="5"/>
+<keyword name="humor" value="5"/>
+<keyword name="indulg" value="5"/>
+<keyword name="jest" value="5"/>
+<keyword name="jubile" value="5"/>
+<keyword name="lust" value="7"/>
+<keyword name="optimist" value="5"/>
+<keyword name="pleasur" value="7"/>
+<keyword name="poetic" value="5"/>
+<keyword name="proud" value="12"/>
+<keyword name="purr" value="5"/>
+<keyword name="relax" value="7"/>
+<keyword name="relief" value="5"/>
+<keyword name="reliev" value="7"/>
+<keyword name="repos" value="5"/>
+<keyword name="resolv" value="8"/>
+<keyword name="respit" value="5"/>
+<keyword name="rest" value="5"/>
+<keyword name="romanc" value="7"/>
+<keyword name="romantic" value="5"/>
+<keyword name="rosi" value="6"/>
+<keyword name="sanguin" value="7"/>
+<keyword name="secur" value="7"/>
+<keyword name="sublim" value="5"/>
+<keyword name="sweet" value="5"/>
+<keyword name="tingl" value="5"/>
+<keyword name="tranquil" value="5"/>
+<keyword name="upbeat" value="5"/>
+<keyword name="will" value="7"/>
+<keyword name="willing" value="7"/>
+<keyword name="worth-whil" value="5"/>
+<keyword name="accentu" value="5"/>
+<keyword name="accomplish" value="8"/>
+<keyword name="acknowledg" value="5"/>
+<keyword name="adorn" value="8"/>
+<keyword name="advantag" value="9"/>
+<keyword name="affabl" value="6"/>
+<keyword name="affix" value="5"/>
+<keyword name="amelior" value="5"/>
+<keyword name="amiabl" value="6"/>
+<keyword name="angel" value="6"/>
+<keyword name="appeas" value="5"/>
+<keyword name="applaud" value="5"/>
+<keyword name="applaus" value="5"/>
+<keyword name="aspir" value="5"/>
+<keyword name="beauteou" value="5"/>
+<keyword name="beautifi" value="8"/>
+<keyword name="befriend" value="5"/>
+<keyword name="benefit" value="5"/>
+<keyword name="best" value="6"/>
+<keyword name="better" value="6"/>
+<keyword name="brillianc" value="5"/>
+<keyword name="brilliant" value="5"/>
+<keyword name="cherish" value="6"/>
+<keyword name="compassion" value="9"/>
+<keyword name="darl" value="6"/>
+<keyword name="dazzl" value="8"/>
+<keyword name="desir" value="6"/>
+<keyword name="enjoy" value="6"/>
+<keyword name="enrich" value="8"/>
+<keyword name="entertain" value="5"/>
+<keyword name="extraordinari" value="6"/>
+<keyword name="fantast" value="6"/>
+<keyword name="hope" value="5"/>
+<keyword name="hospit" value="6"/>
+<keyword name="hug" value="5"/>
+<keyword name="kind" value="6"/>
+<keyword name="laugh" value="5"/>
+<keyword name="laughter" value="5"/>
+<keyword name="marvel" value="6"/>
+<keyword name="miracl" value="6"/>
+<keyword name="miracul" value="6"/>
+<keyword name="optim" value="5"/>
+<keyword name="pretti" value="6"/>
+<keyword name="splendid" value="6"/>
+<keyword name="worthi" value="6"/>
+<keyword name="adul" value="12"/>
+<keyword name="amour" value="7"/>
+<keyword name="appeal" value="5"/>
+<keyword name="assur" value="12"/>
+<keyword name="attract" value="8"/>
+<keyword name="balmi" value="5"/>
+<keyword name="bliss" value="7"/>
+<keyword name="calm" value="7"/>
+<keyword name="comest" value="5"/>
+<keyword name="comic" value="5"/>
+<keyword name="confid" value="12"/>
+<keyword name="cozi" value="5"/>
+<keyword name="cuddl" value="5"/>
+<keyword name="cupid" value="7"/>
+<keyword name="dote" value="5"/>
+<keyword name="dreamland" value="5"/>
+<keyword name="earnest" value="8"/>
+<keyword name="eas" value="5"/>
+<keyword name="ecstasi" value="7"/>
+<keyword name="endear" value="5"/>
+<keyword name="accompani" value="5"/>
+<keyword name="banquet" value="5"/>
+<keyword name="baptism" value="5"/>
+<keyword name="beautif" value="5"/>
+<keyword name="bless" value="5"/>
+<keyword name="bloom" value="5"/>
+<keyword name="blossom" value="5"/>
+<keyword name="bridal" value="5"/>
+<keyword name="bride" value="5"/>
+<keyword name="bridegroom" value="5"/>
+<keyword name="bridesmaid" value="5"/>
+<keyword name="candid" value="5"/>
+<keyword name="carol" value="5"/>
+<keyword name="companion" value="5"/>
+<keyword name="compliment" value="5"/>
+<keyword name="congratulatori" value="5"/>
+<keyword name="courtship" value="5"/>
+<keyword name="destin" value="5"/>
+<keyword name="dolphin" value="5"/>
+<keyword name="dove" value="5"/>
+<keyword name="encourag" value="5"/>
+<keyword name="enlighten" value="5"/>
+<keyword name="evergreen" value="5"/>
+<keyword name="exquisit" value="5"/>
+<keyword name="faith" value="5"/>
+<keyword name="fanfar" value="5"/>
+<keyword name="favorit" value="5"/>
+<keyword name="fortun" value="5"/>
+<keyword name="friendship" value="5"/>
+<keyword name="glorif" value="5"/>
+<keyword name="glorifi" value="5"/>
+<keyword name="glori" value="5"/>
+<keyword name="godli" value="5"/>
+<keyword name="godsend" value="5"/>
+<keyword name="gorgeou" value="5"/>
+<keyword name="heartfelt" value="5"/>
+<keyword name="heartili" value="5"/>
+<keyword name="heavenli" value="5"/>
+<keyword name="heaven" value="5"/>
+<keyword name="heroic" value="5"/>
+<keyword name="heroism" value="5"/>
+<keyword name="hurrah" value="5"/>
+<keyword name="improv" value="5"/>
+<keyword name="jackpot" value="5"/>
+<keyword name="lovabl" value="5"/>
+<keyword name="lovemak" value="5"/>
+<keyword name="lover" value="5"/>
+<keyword name="loyal" value="5"/>
+<keyword name="lucki" value="5"/>
+<keyword name="magnific" value="5"/>
+<keyword name="majest" value="5"/>
+<keyword name="masterpiec" value="5"/>
+<keyword name="masteri" value="5"/>
+<keyword name="matrimoni" value="5"/>
+<keyword name="opportun" value="5"/>
+<keyword name="prevail" value="5"/>
+<keyword name="progress" value="5"/>
+<keyword name="promis" value="5"/>
+<keyword name="prosper" value="5"/>
+<keyword name="rekindl" value="5"/>
+<keyword name="saintli" value="5"/>
+<keyword name="succeed" value="5"/>
+<keyword name="support" value="5"/>
+<keyword name="thanksgiv" value="5"/>
+<keyword name="victor" value="5"/>
+<keyword name="victori" value="5"/>
+<keyword name="vindic" value="5"/>
+<keyword name="virtuou" value="5"/>
+<keyword name="visionari" value="5"/>
+<keyword name="visitor" value="5"/>
+<keyword name="vital" value="5"/>
+<keyword name="vivaci" value="5"/>
+<keyword name="vivid" value="5"/>
+<keyword name="volunt" value="5"/>
+<keyword name="voluptu" value="5"/>
+<keyword name="vow" value="5"/>
+<keyword name="wealth" value="5"/>
+<keyword name="welcom" value="5"/>
+<keyword name="winner" value="5"/>
+<keyword name="witti" value="5"/>
+<keyword name="wonderfulli" value="5"/>
+<keyword name="yearn" value="5"/>
+<keyword name="young" value="5"/>
+<keyword name="youth" value="5"/>
+  </emotion>
+  <emotion name="sadness">
+    <keyword name="break_off" value="8"/>
+    <keyword name="imposs" value="3"/>
+    <keyword name="miss" value="5"/>
+    <keyword name="burden" value="8"/>
+    <keyword name="regrett" value="8"/>
+    <keyword name="hemorrhag" value="5"/>
+    <keyword name="problem" value="5"/>
+    <keyword name="grave" value="5"/>
+    <keyword name="unfortun" value="8"/>
+    <keyword name="naughti" value="14"/>
+    <keyword name="poverti" value="17" />
+    <keyword name="breakup" value="14"/>
+    <keyword name="break-up" value="14"/>
+    <keyword name="kick_out" value="5"/>
+    <keyword name="tumor" value="11"/>
+    <keyword name="seizur" value="14"/>
+    <keyword name="suicid" value="14"/>
+    <keyword name="flunk" value="8"/>
+    <keyword name="hurt" value="11"/>
+    <keyword name="badli" value="5"/>
+    <keyword name="separat" value="8"/>
+    <keyword name="separ" value="8"/>
+    <keyword name="goodby" value="14"/>
+    <keyword name="unrealis" value="11"/>
+    <keyword name="discrimin" value="8"/>
+    <keyword name="dissatisfi" value="8"/>
+    <keyword name="emptyn" value="8"/>
+    <keyword name="famin" value="8"/>
+    <keyword name="disqualif" value="8"/>
+    <keyword name="divorc" value="5"/>
+    <keyword name="weaken" value="3"/>
+    <keyword name="estrang" value="5"/>
+    <keyword name="lonelin" value="11"/>
+    <keyword name="funer" value="14"/>
+    <keyword name="destruct" value="5"/>
+    <keyword name="oper" value="5"/>
+    <keyword name="operat" value="5"/>
+    <keyword name="disappoint" value="14"/>
+    <keyword name="pass_away" value="8"/>
+    <keyword name="break_up" value="8"/>
+    <keyword name="good-by" value="11"/>
+    <keyword name="unrequit" value="17"/>
+    <keyword name="cri" value="8"/>
+    <keyword name="crisi" value="8"/>
+    <keyword name="misinterpret" value="5"/>
+    <keyword name="boredom" value="8"/>
+    <keyword name="illn" value="8"/>
+    <keyword name="ill" value="8"/>
+    <keyword name="inabl" value="8"/>
+    <keyword name="quarrel" value="8"/>
+    <keyword name="quarrell" value="8"/>
+    <keyword name="di" value="14"/>
+    <keyword name="alon" value="10"/>
+    <keyword name="cry" value="14"/>
+    <keyword name="leav" value="5"/>
+    <keyword name="saddn" value="14"/>
+    <keyword name="sick" value="8"/>
+    <keyword name="unabl" value="7"/>
+    <keyword name="farewel" value="8"/>
+    <keyword name="painfulli" value="11"/>
+    <keyword name="disea" value="5"/>
+    <keyword name="disturb" value="8"/>
+    <keyword name="trauma" value="8"/>
+    <keyword name="traumat" value="8"/>
+    <keyword name="sad" value="17"/>
+    <keyword name="by_myself" value="7"/>
+    <keyword name="kill" value="5"/>
+    <keyword name="dy" value="11"/>
+    <keyword name="miscarriag" value="11"/>
+    <keyword name="pain" value="14" />
+    <keyword name="cancer" value="5" />
+    <keyword name="apartheid" value="11"/>
+    <keyword name="lone" value="14"/>
+    <keyword name="hopelessli" value="14"/>
+    <keyword name="hard" value="14"/>
+    <keyword name="sadn" value="17"/>
+    <keyword name="devast" value="17"/>
+    <keyword name="hopeless" value="14"/>
+    <keyword name="fail" value="14"/>
+    <keyword name="lose" value="17"/>
+    <keyword name="los" value="17"/>
+    <keyword name="accid" value="11" />
+    <keyword name="worri" value="17" />
+    <keyword name="weak" value="11" />
+    <keyword name="world-weari" value="5" />
+    <keyword name="weltschmerz" value="5" />
+    <keyword name="woe" value="5" />
+    <keyword name="woeful" value="14" />
+    <keyword name="weight" value="5" />
+    <keyword name="weepi" value="5" />
+    <keyword name="tear" value="11" />
+    <keyword name="sorrow" value="14" />
+    <keyword name="regret" value="14" />
+    <keyword name="rueful" value="5" />
+    <keyword name="self-piti" value="5" />
+    <keyword name="unhappi" value="11" />
+    <keyword name="lo" value="14"/>
+    <keyword name="saddest" value="17"/>
+    <keyword name="heart-rend" value="14"/>
+    <keyword name="repent" value="5" />
+    <keyword name="penit" value="5" />
+    <keyword name="penanc" value="5" />
+    <keyword name="plaintiv" value="5" />
+    <keyword name="oppress" value="11" />
+    <keyword name="mourn" value="11" />
+    <keyword name="ruth" value="5" />
+    <keyword name="miseri" value="11" />
+    <keyword name="melancholi" value="11" />
+    <keyword name="joyless" value="11" />
+    <keyword name="helpless" value="11" />
+    <keyword name="heavyhearted" value="5" />
+    <keyword name="guilt" value="14" />
+    <keyword name="guilty_consci" value="5" />
+    <keyword name="guilt_feel" value="5" />
+    <keyword name="guilt_trip" value="5" />
+    <keyword name="grief" value="17" />
+    <keyword name="heartach" value="5" />
+    <keyword name="heartbreak" value="14" />
+    <keyword name="brokenhearted" value="5" />
+    <keyword name="gloom" value="8" />
+    <keyword name="gloomi" value="11" />
+    <keyword name="somber" value="11" />
+    <keyword name="forlorn" value="5" />
+    <keyword name="loneli" value="5" />
+    <keyword name="desol" value="5" />
+    <keyword name="dysphoria" value="5" />
+    <keyword name="downhearted" value="5" />
+    <keyword name="low-spirited" value="5" />
+    <keyword name="dispirited" value="5" />
+    <keyword name="dolor" value="11" />
+    <keyword name="dolour" value="5" />
+    <keyword name="dole" value="5" />
+    <keyword name="despond" value="14" />
+    <keyword name="heartsick" value="5" />
+    <keyword name="disconsol" value="11" />
+    <keyword name="depress" value="11" />
+    <keyword name="demor" value="11" />
+    <keyword name="compunct" value="5" />
+    <keyword name="remors" value="11" />
+    <keyword name="self-reproach" value="5" />
+    <keyword name="cheerless" value="11" />
+    <keyword name="uncheer" value="5" />
+    <keyword name="blue_devil" value="5" />
+    <keyword name="attrit" value="5" />
+    <keyword name="contrit" value="5" />
+    <keyword name="sorri" value="8" />
+    <keyword name="demoralis" value="5" />
+    <keyword name="dishearten" value="11" />
+    <keyword name="dispirit" value="5" />
+    <keyword name="discourag" value="11" />
+    <keyword name="blue" value="5" />
+    <keyword name="down" value="5" />
+    <keyword name="downcast" value="11" />
+    <keyword name="downheart" value="11" />
+    <keyword name="low" value="5" />
+    <keyword name="low-spirit" value="5" />
+    <keyword name="sadden" value="11" />
+    <keyword name="dysphor" value="5" />
+    <keyword name="distress" value="11" />
+    <keyword name="godforsaken" value="5" />
+    <keyword name="lorn" value="5" />
+    <keyword name="dark" value="8" />
+    <keyword name="dismal" value="11" />
+    <keyword name="grim" value="5" />
+    <keyword name="glum" value="11" />
+    <keyword name="long-fac" value="5" />
+    <keyword name="dingi" value="5" />
+    <keyword name="drab" value="5" />
+    <keyword name="drear" value="5" />
+    <keyword name="dreari" value="11" />
+    <keyword name="grievou" value="5" />
+    <keyword name="heartrend" value="5" />
+    <keyword name="bereav" value="11" />
+    <keyword name="bereft" value="5" />
+    <keyword name="grief-stricken" value="5" />
+    <keyword name="griev" value="11" />
+    <keyword name="guilti" value="14" />
+    <keyword name="hangdog" value="5" />
+    <keyword name="shamefac" value="5" />
+    <keyword name="shame" value="11" />
+    <keyword name="heavyheart" value="11" />
+    <keyword name="melanchol" value="5" />
+    <keyword name="hapless" value="11" />
+    <keyword name="miser" value="14" />
+    <keyword name="misfortun" value="5" />
+    <keyword name="pathet" value="11" />
+    <keyword name="piteou" value="11" />
+    <keyword name="pitiabl" value="5" />
+    <keyword name="piti" value="8" />
+    <keyword name="poor" value="11" />
+    <keyword name="wretch" value="5" />
+    <keyword name="suffer" value="11" />
+    <keyword name="tyrann" value="5" />
+    <keyword name="laden" value="5" />
+    <keyword name="downtrodden" value="5" />
+    <keyword name="persecut" value="11" />
+    <keyword name="bad" value="14" />
+    <keyword name="sorry_for" value="5" />
+    <keyword name="lachrymos" value="5" />
+    <keyword name="weep" value="11" />
+    <keyword name="deplor" value="5" />
+    <keyword name="execr" value="5" />
+    <keyword name="woebegon" value="11" />
+    <keyword name="bore" value="11" />
+    <keyword name="rue" value="5" />
+    <keyword name="deject" value="11" />
+    <keyword name="cast_down" value="5" />
+    <keyword name="get_down" value="5" />
+    <keyword name="dismai" value="11" />
+    <keyword name="aggriev" value="5" />
+    <keyword name="harass" value="5" />
+    <keyword name="ruefulli" value="5" />
+    <keyword name="remorsefulli" value="5" />
+    <keyword name="cheerlessli" value="5" />
+    <keyword name="despairingli" value="5" />
+    <keyword name="dolefulli" value="5" />
+    <keyword name="sorrowfulli" value="5" />
+    <keyword name="forlornli" value="5" />
+    <keyword name="gloomili" value="5" />
+    <keyword name="grievous" value="5" />
+    <keyword name="joylessli" value="5" />
+    <keyword name="mournfulli" value="5" />
+    <keyword name="penitenti" value="5" />
+    <keyword name="repentantli" value="5" />
+    <keyword name="lament" value="5" />
+    <keyword name="sadli" value="11" />
+    <keyword name="woefulli" value="5" />
+    <keyword name="death" value="17"/>
+    <keyword name="dislik" value="11"/>
+    <keyword name="dead" value="14"/>
+    <keyword name="war" value="11"/>
+    <keyword name="catastroph" value="14"/>
+    <keyword name="die" value="14"/>
+<keyword name="casualti" value="5"/>
+<keyword name="abject" value="5"/>
+<keyword name="abandon" value="5"/>
+<keyword name="absent-mind" value="5"/>
+<keyword name="abyss" value="5"/>
+<keyword name="ach" value="7"/>
+<keyword name="addict" value="5"/>
+<keyword name="agon" value="7"/>
+<keyword name="ail" value="7"/>
+<keyword name="ailment" value="7"/>
+<keyword name="ala" value="5"/>
+<keyword name="amiss" value="5"/>
+<keyword name="amput" value="5"/>
+<keyword name="anguish" value="11"/>
+<keyword name="desper" value="11"/>
+<keyword name="manslaught" value="5"/>
+<keyword name="massacr" value="5"/>
+<keyword name="moan" value="7"/>
+<keyword name="mourner" value="11"/>
+<keyword name="terribl" value="5"/>
+<keyword name="tragedi" value="11"/>
+<keyword name="tragic" value="5"/>
+<keyword name="unlucki" value="5"/>
+<keyword name="whimper" value="11"/>
+<keyword name="whip" value="8"/>
+<keyword name="yearn" value="5"/>
+<keyword name="yelp" value="7"/>
+<keyword name="worsen" value="5"/>
+<keyword name="arduou" value="5"/>
+<keyword name="asham" value="11"/>
+<keyword name="calam" value="5"/>
+<keyword name="confus" value="5"/>
+<keyword name="cruel" value="5"/>
+<keyword name="cruelti" value="5"/>
+<keyword name="despair" value="11"/>
+<keyword name="disast" value="5"/>
+<keyword name="disastr" value="5"/>
+<keyword name="fatal" value="5"/>
+<keyword name="fatalist" value="5"/>
+<keyword name="fatigu" value="7"/>
+<keyword name="grievanc" value="7"/>
+<keyword name="headach" value="5"/>
+<keyword name="abort" value="5"/>
+<keyword name="absenc" value="5"/>
+<keyword name="absent" value="5"/>
+<keyword name="abus" value="5"/>
+<keyword name="adrift" value="5"/>
+<keyword name="adulteri" value="5"/>
+<keyword name="afflict" value="5"/>
+<keyword name="affront" value="5"/>
+<keyword name="aftermath" value="5"/>
+<keyword name="aggrav" value="5"/>
+<keyword name="agoni" value="5"/>
+<keyword name="annihil" value="5"/>
+<keyword name="apathi" value="5"/>
+<keyword name="apolog" value="5"/>
+<keyword name="atroc" value="5"/>
+<keyword name="atrophi" value="5"/>
+<keyword name="attack" value="5"/>
+<keyword name="avalanch" value="5"/>
+<keyword name="aw" value="5"/>
+<keyword name="bankrupt" value="5"/>
+<keyword name="bankruptci" value="5"/>
+<keyword name="battl" value="5"/>
+<keyword name="beg" value="5"/>
+<keyword name="beggar" value="5"/>
+<keyword name="belittl" value="5"/>
+<keyword name="blemish" value="5"/>
+<keyword name="blight" value="5"/>
+<keyword name="blindli" value="5"/>
+<keyword name="blind" value="5"/>
+<keyword name="blockad" value="5"/>
+<keyword name="bloodsh" value="5"/>
+<keyword name="bloodi" value="5"/>
+<keyword name="blunder" value="5"/>
+<keyword name="broke" value="5"/>
+<keyword name="broken" value="5"/>
+<keyword name="bum" value="5"/>
+<keyword name="burdensom" value="5"/>
+<keyword name="burial" value="5"/>
+<keyword name="complain" value="5"/>
+<keyword name="conceal" value="5"/>
+<keyword name="concern" value="5"/>
+<keyword name="conflict" value="5"/>
+<keyword name="convict" value="5"/>
+<keyword name="corps" value="5"/>
+<keyword name="crippl" value="5"/>
+<keyword name="damag" value="5"/>
+<keyword name="damnat" value="5"/>
+<keyword name="danger" value="5"/>
+<keyword name="darken" value="5"/>
+<keyword name="dash" value="5"/>
+<keyword name="deadli" value="5"/>
+<keyword name="debacl" value="5"/>
+<keyword name="debt" value="5"/>
+<keyword name="decai" value="5"/>
+<keyword name="deceas" value="5"/>
+<keyword name="deceit" value="5"/>
+<keyword name="deceiv" value="5"/>
+<keyword name="defenseless" value="5"/>
+<keyword name="degeneraci" value="5"/>
+<keyword name="degrad" value="5"/>
+<keyword name="delai" value="5"/>
+<keyword name="deliri" value="5"/>
+<keyword name="delirium" value="5"/>
+<keyword name="delug" value="5"/>
+<keyword name="delus" value="5"/>
+<keyword name="dementia" value="5"/>
+<keyword name="demis" value="5"/>
+<keyword name="demolish" value="5"/>
+<keyword name="destroi" value="5"/>
+<keyword name="devil" value="5"/>
+<keyword name="disabl" value="5"/>
+<keyword name="disagre" value="5"/>
+<keyword name="disagr" value="5"/>
+<keyword name="discomfort" value="5"/>
+<keyword name="diseas" value="5"/>
+<keyword name="disembodi" value="5"/>
+<keyword name="disfigur" value="5"/>
+<keyword name="disgrac" value="5"/>
+<keyword name="disgruntl" value="5"/>
+<keyword name="dispar" value="5"/>
+<keyword name="dispassion" value="5"/>
+<keyword name="dispel" value="5"/>
+<keyword name="displac" value="5"/>
+<keyword name="displeas" value="5"/>
+<keyword name="dispossess" value="5"/>
+<keyword name="disqualifi" value="5"/>
+<keyword name="disrespect" value="5"/>
+<keyword name="disservic" value="5"/>
+<keyword name="dissolut" value="5"/>
+<keyword name="doom" value="5"/>
+<keyword name="doomsdai" value="5"/>
+<keyword name="doubt" value="5"/>
+<keyword name="downfal" value="5"/>
+<keyword name="dread" value="5"/>
+<keyword name="dreadfulli" value="5"/>
+<keyword name="drown" value="5"/>
+<keyword name="drug" value="5"/>
+<keyword name="dull" value="5"/>
+<keyword name="dump" value="5"/>
+<keyword name="duress" value="5"/>
+<keyword name="embarrass" value="5"/>
+<keyword name="enslav" value="5"/>
+<keyword name="error" value="5"/>
+<keyword name="euthanasia" value="5"/>
+<keyword name="evict" value="5"/>
+<keyword name="evil" value="5"/>
+<keyword name="exclud" value="5"/>
+<keyword name="exclus" value="5"/>
+<keyword name="execution" value="5"/>
+<keyword name="exhaust" value="5"/>
+<keyword name="exil" value="5"/>
+<keyword name="exorc" value="5"/>
+<keyword name="expel" value="5"/>
+<keyword name="explod" value="5"/>
+<keyword name="expuls" value="5"/>
+<keyword name="extermin" value="5"/>
+<keyword name="extinct" value="5"/>
+<keyword name="failur" value="5"/>
+<keyword name="faint" value="5"/>
+<keyword name="faithless" value="5"/>
+<keyword name="fault" value="5"/>
+<keyword name="flaw" value="5"/>
+<keyword name="foreclos" value="5"/>
+<keyword name="forfeit" value="5"/>
+<keyword name="forfeitur" value="5"/>
+<keyword name="forgotten" value="5"/>
+<keyword name="forsak" value="5"/>
+<keyword name="forsaken" value="5"/>
+<keyword name="fortress" value="5"/>
+<keyword name="fragil" value="5"/>
+<keyword name="frailti" value="5"/>
+<keyword name="fraught" value="5"/>
+<keyword name="frai" value="5"/>
+<keyword name="hardship" value="5"/>
+<keyword name="harm" value="5"/>
+<keyword name="holocaust" value="5"/>
+<keyword name="horrif" value="5"/>
+<keyword name="horrifi" value="5"/>
+<keyword name="horror" value="5"/>
+<keyword name="hospic" value="5"/>
+<keyword name="hospit" value="5"/>
+<keyword name="imprison" value="5"/>
+<keyword name="imprud" value="5"/>
+<keyword name="inadequ" value="5"/>
+<keyword name="inappropri" value="5"/>
+<keyword name="incarcer" value="5"/>
+<keyword name="incas" value="5"/>
+<keyword name="incrimin" value="5"/>
+<keyword name="incur" value="5"/>
+<keyword name="infami" value="5"/>
+<keyword name="infanticid" value="5"/>
+<keyword name="infecti" value="5"/>
+<keyword name="inferior" value="5"/>
+<keyword name="infertil" value="5"/>
+<keyword name="infidel" value="5"/>
+<keyword name="inflict" value="5"/>
+<keyword name="inhibit" value="5"/>
+<keyword name="inhospit" value="5"/>
+<keyword name="inhuman" value="5"/>
+<keyword name="inim" value="5"/>
+<keyword name="injur" value="5"/>
+<keyword name="injuri" value="5"/>
+<keyword name="insan" value="5"/>
+<keyword name="insecur" value="5"/>
+<keyword name="insignific" value="5"/>
+<keyword name="insult" value="5"/>
+<keyword name="insurmount" value="5"/>
+<keyword name="inter" value="5"/>
+<keyword name="interced" value="5"/>
+<keyword name="interest" value="5"/>
+<keyword name="interrupt" value="5"/>
+<keyword name="intervent" value="5"/>
+<keyword name="intoler" value="5"/>
+<keyword name="invad" value="5"/>
+<keyword name="invalid" value="5"/>
+<keyword name="irreconcil" value="5"/>
+<keyword name="jail" value="5"/>
+<keyword name="jar" value="5"/>
+<keyword name="jealousi" value="5"/>
+<keyword name="lockup" value="5"/>
+<keyword name="lonesom" value="5"/>
+<keyword name="loss" value="5"/>
+<keyword name="lost" value="5"/>
+<keyword name="malevol" value="5"/>
+<keyword name="malici" value="5"/>
+<keyword name="malign" value="5"/>
+<keyword name="martyr" value="5"/>
+<keyword name="martyrdom" value="5"/>
+<keyword name="meaningless" value="5"/>
+<keyword name="measl" value="5"/>
+<keyword name="meek" value="5"/>
+<keyword name="melodrama" value="5"/>
+<keyword name="meltdown" value="5"/>
+<keyword name="mishap" value="5"/>
+<keyword name="mistak" value="5"/>
+<keyword name="misunderstand" value="5"/>
+<keyword name="mock" value="5"/>
+<keyword name="molest" value="5"/>
+<keyword name="moodi" value="5"/>
+<keyword name="morbid" value="5"/>
+<keyword name="morgu" value="5"/>
+<keyword name="moribund" value="5"/>
+<keyword name="mortal" value="5"/>
+<keyword name="mortif" value="5"/>
+<keyword name="mortuari" value="5"/>
+<keyword name="murder" value="5"/>
+<keyword name="nasti" value="5"/>
+<keyword name="nauseou" value="5"/>
+<keyword name="necess" value="5"/>
+<keyword name="nefari" value="5"/>
+<keyword name="neg" value="5"/>
+<keyword name="neglect" value="5"/>
+<keyword name="neuralgia" value="5"/>
+<keyword name="noncompli" value="5"/>
+<keyword name="nonsens" value="5"/>
+<keyword name="nothing" value="5"/>
+<keyword name="numb" value="5"/>
+<keyword name="nutriti" value="5"/>
+<keyword name="obit" value="5"/>
+<keyword name="obituari" value="5"/>
+<keyword name="obliter" value="5"/>
+<keyword name="obnoxi" value="5"/>
+<keyword name="obstacl" value="5"/>
+<keyword name="odditi" value="5"/>
+<keyword name="offend" value="5"/>
+<keyword name="offens" value="5"/>
+<keyword name="orphan" value="5"/>
+<keyword name="outcast" value="5"/>
+<keyword name="overwhelm" value="5"/>
+<keyword name="ow" value="5"/>
+<keyword name="pessim" value="5"/>
+<keyword name="pessimist" value="5"/>
+<keyword name="rape" value="5"/>
+<keyword name="refuge" value="5"/>
+<keyword name="refus" value="5"/>
+<keyword name="reject" value="5"/>
+<keyword name="relaps" value="5"/>
+<keyword name="remiss" value="5"/>
+<keyword name="ruin" value="5"/>
+<keyword name="ruinou" value="5"/>
+<keyword name="sacrific" value="5"/>
+<keyword name="sanctifi" value="5"/>
+<keyword name="schizophrenia" value="5"/>
+<keyword name="shipwreck" value="5"/>
+<keyword name="sicken" value="5"/>
+<keyword name="sickli" value="5"/>
+<keyword name="sin" value="5"/>
+<keyword name="slaughter" value="5"/>
+<keyword name="slaughterhous" value="5"/>
+<keyword name="slave" value="5"/>
+<keyword name="slaveri" value="5"/>
+<keyword name="slayer" value="5"/>
+<keyword name="smite" value="5"/>
+<keyword name="terror" value="5"/>
+<keyword name="terrorist" value="5"/>
+<keyword name="theft" value="5"/>
+<keyword name="theocrat" value="5"/>
+<keyword name="thief" value="5"/>
+<keyword name="torment" value="5"/>
+<keyword name="tortur" value="5"/>
+<keyword name="traitor" value="5"/>
+<keyword name="treacheri" value="5"/>
+<keyword name="treat" value="5"/>
+<keyword name="tyranni" value="5"/>
+<keyword name="tyrant" value="5"/>
+<keyword name="ugli" value="5"/>
+<keyword name="ulcer" value="5"/>
+<keyword name="ultim" value="5"/>
+<keyword name="unaccept" value="5"/>
+<keyword name="unaccount" value="5"/>
+<keyword name="unacknowledg" value="5"/>
+<keyword name="unattain" value="5"/>
+<keyword name="unattract" value="5"/>
+<keyword name="unbear" value="5"/>
+<keyword name="underpaid" value="5"/>
+<keyword name="undesir" value="5"/>
+<keyword name="unfair" value="5"/>
+<keyword name="unhealthi" value="5"/>
+<keyword name="unimport" value="5"/>
+<keyword name="uninspir" value="5"/>
+<keyword name="uninterest" value="5"/>
+<keyword name="unkind" value="5"/>
+<keyword name="unsatisfi" value="5"/>
+<keyword name="upset" value="5"/>
+<keyword name="victim" value="5"/>
+<keyword name="violat" value="5"/>
+<keyword name="violenc" value="5"/>
+<keyword name="violent" value="5"/>
+<keyword name="vulner" value="5"/>
+<keyword name="wallow" value="5"/>
+<keyword name="warfar" value="5"/>
+<keyword name="weakli" value="5"/>
+<keyword name="wearili" value="5"/>
+<keyword name="weari" value="5"/>
+<keyword name="whine" value="5"/>
+<keyword name="widow" value="5"/>
+<keyword name="wilder" value="5"/>
+<keyword name="worthless" value="5"/>
+<keyword name="wound" value="5"/>
+<keyword name="wrong" value="5"/>
+<keyword name="wrongli" value="5"/> 
+ </emotion>
+  <emotion name="surprise">
+    <keyword name="unexpectedli" value="11"/>
+    <keyword name="extraordinari" value="11"/>
+    <keyword name="exclaim" value="14"/>
+    <keyword name="secret" value="5"/>
+    <keyword name="shock" value="14"/>
+    <keyword name="wow" value="14"/>
+    <keyword name="wonder" value="17" />
+    <keyword name="admir" value="14" />
+    <keyword name="surpris" value="17" />
+    <keyword name="surpri" value="17" />
+    <keyword name="stupefact" value="5" />
+    <keyword name="aw" value="14" />
+    <keyword name="astonish" value="11" />
+    <keyword name="amaz" value="11" />
+    <keyword name="astound" value="14" />
+    <keyword name="stagger" value="5" />
+    <keyword name="stupefi" value="5" />
+    <keyword name="astoni" value="5" />
+    <keyword name="stun" value="11" />
+    <keyword name="awestruck" value="5" />
+    <keyword name="awestricken" value="5" />
+    <keyword name="in_awe_of" value="5" />
+    <keyword name="daze" value="5" />
+    <keyword name="dumbfound" value="5" />
+    <keyword name="dumfound" value="5" />
+    <keyword name="flabbergast" value="5" />
+    <keyword name="thunderstruck" value="5" />
+    <keyword name="fantast" value="17" />
+    <keyword name="howl" value="5" />
+    <keyword name="marvel" value="14" />
+    <keyword name="rattl" value="5" />
+    <keyword name="terrif" value="17" />
+    <keyword name="tremend" value="5" />
+    <keyword name="wondrou" value="5" />
+    <keyword name="stupifi" value="5" />
+    <keyword name="perplex" value="11" />
+    <keyword name="puzzl" value="11" />
+    <keyword name="mystifi" value="5" />
+    <keyword name="baffl" value="5" />
+    <keyword name="beat" value="8" />
+    <keyword name="bewild" value="5" />
+    <keyword name="flummox" value="5" />
+    <keyword name="nonplu" value="5" />
+    <keyword name="gravel" value="5" />
+    <keyword name="trounc" value="5" />
+    <keyword name="besot" value="5" />
+    <keyword name="amazingli" value="5" />
+    <keyword name="surprisingli" value="5" />
+    <keyword name="astonishingli" value="5" />
+    <keyword name="surprisedli" value="5" />
+    <keyword name="wonderfulli" value="5" />
+    <keyword name="wondrous" value="5" />
+    <keyword name="superbl" value="5" />
+    <keyword name="toppingli" value="5" />
+    <keyword name="faint" value="5" />
+    <keyword name="strang" value="5" />
+    <keyword name="exclam" value="17"/>
+    <keyword name="suddenli" value="14"/>
+    <keyword name="sudden" value="17"/>
+    <keyword name="unexpect" value="14"/>
+    <keyword name="look_at" value="14"/>
+    <keyword name="look_out" value="14"/>
+<keyword name="abrupt" value="8"/>
+<keyword name="affect" value="5"/>
+<keyword name="impuls" value="5"/>
+<keyword name="ambush" value="5"/>
+<keyword name="anomali" value="5"/>
+<keyword name="apparit" value="5"/>
+<keyword name="bizarr" value="5"/>
+<keyword name="blitz" value="5"/>
+<keyword name="coincid" value="5"/>
+<keyword name="crescendo" value="5"/>
+<keyword name="eager" value="5"/>
+<keyword name="emerg" value="5"/>
+<keyword name="enchant" value="5"/>
+<keyword name="erot" value="5"/>
+<keyword name="errat" value="5"/>
+<keyword name="erupt" value="5"/>
+<keyword name="exhilar" value="5"/>
+<keyword name="magic" value="5"/>
+<keyword name="magician" value="5"/>
+<keyword name="magnific" value="5"/>
+<keyword name="majest" value="5"/>
+<keyword name="romanc" value="5"/>
+<keyword name="splendid" value="5"/>
+<keyword name="splendor" value="5"/>
+<keyword name="uncanni" value="5"/>
+<keyword name="uncertain" value="5"/>
+<keyword name="zani" value="5"/>
+<keyword name="zeal" value="5"/>
+  </emotion>
+</emotions>
