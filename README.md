@@ -1,2 +1,2 @@
 # PsychX
-S.W.A.N. FYP
+A Simple Lexicon-Based implementation of Ekmans Mood Detection.
